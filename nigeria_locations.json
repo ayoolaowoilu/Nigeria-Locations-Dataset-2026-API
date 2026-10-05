@@ -1,0 +1,7438 @@
+{
+ "country": "Nigeria",
+ "totalStates": 37,
+ "totalLgas": 774,
+ "states": [
+  {
+   "name": "Abia",
+   "capital": "Umuahia",
+   "lgas": [
+    {
+     "name": "Aba North",
+     "areas": [
+      "Ogbor Hill",
+      "Eziama",
+      "Ariaria",
+      "Umuola",
+      "Aba Town"
+     ]
+    },
+    {
+     "name": "Aba South",
+     "areas": [
+      "Ndiegoro",
+      "Umungasi",
+      "Osusu",
+      "Asa",
+      "Aba Main Town"
+     ]
+    },
+    {
+     "name": "Arochukwu",
+     "areas": [
+      "Arochukwu Town",
+      "Ihechiowa",
+      "Ibom",
+      "Obinkita",
+      "Amuvi",
+      "Ututu"
+     ]
+    },
+    {
+     "name": "Bende",
+     "areas": [
+      "Bende Town",
+      "Alayi",
+      "Item",
+      "Igbere",
+      "Ozuitem",
+      "Umuimenyi"
+     ]
+    },
+    {
+     "name": "Ikwuano",
+     "areas": [
+      "Umudike",
+      "Isiala Oboro",
+      "Ibere",
+      "Oloko",
+      "Ariam",
+      "Usaka"
+     ]
+    },
+    {
+     "name": "Isiala Ngwa North",
+     "areas": [
+      "Okpuala Ngwa",
+      "Ntigha",
+      "Umuaro"
+     ]
+    },
+    {
+     "name": "Isiala Ngwa South",
+     "areas": [
+      "Omoba",
+      "Mbawsi",
+      "Ovom",
+      "Umuojima"
+     ]
+    },
+    {
+     "name": "Isuikwuato",
+     "areas": [
+      "Mbalano",
+      "Uturu"
+     ]
+    },
+    {
+     "name": "Obi Ngwa",
+     "areas": [
+      "Mgboko",
+      "Ohanze",
+      "Umuolu",
+      "Ntigha Obi",
+      "Ipu"
+     ]
+    },
+    {
+     "name": "Ohafia",
+     "areas": [
+      "Ohafia Town",
+      "Amaekpu",
+      "Elu",
+      "Abiriba",
+      "Nkporo",
+      "Ebem"
+     ]
+    },
+    {
+     "name": "Osisioma",
+     "areas": [
+      "Osisioma Ngwa",
+      "Umuocham",
+      "Amaogwugwu",
+      "Ahia Ohuru"
+     ]
+    },
+    {
+     "name": "Ugwunagbo",
+     "areas": [
+      "Ugwunagbo Town",
+      "Obuda",
+      "Umuzom",
+      "Ntalakwu"
+     ]
+    },
+    {
+     "name": "Ukwa East",
+     "areas": [
+      "Akwete",
+      "Obehie",
+      "Oke-Ikpe",
+      "Ngwaiyiekwe"
+     ]
+    },
+    {
+     "name": "Ukwa West",
+     "areas": [
+      "Oboro",
+      "Asa Ukwa",
+      "Ohambele",
+      "Umuokwor",
+      "Ohuru"
+     ]
+    },
+    {
+     "name": "Umuahia North",
+     "areas": [
+      "Umuahia Town",
+      "Ibeku",
+      "Isingwu",
+      "Apumiri",
+      "Nkwoegwu"
+     ]
+    },
+    {
+     "name": "Umuahia South",
+     "areas": [
+      "Apia",
+      "Ohuhu",
+      "Old Umuahia",
+      "Ubakala",
+      "Umuawa"
+     ]
+    },
+    {
+     "name": "Umu Nneochi",
+     "areas": [
+      "Lokpa",
+      "Isuochi",
+      "Ihube",
+      "Okpuala",
+      "Ozu Abam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Adamawa",
+   "capital": "Yola",
+   "lgas": [
+    {
+     "name": "Demsa",
+     "areas": [
+      "Demsa Town",
+      "Borrong",
+      "Gwamba",
+      "Ribadu"
+     ]
+    },
+    {
+     "name": "Fufure",
+     "areas": [
+      "Fufure Town",
+      "Pariya",
+      "Gurin",
+      "Sugu"
+     ]
+    },
+    {
+     "name": "Ganye",
+     "areas": [
+      "Ganye Town",
+      "Sugu Ganye",
+      "Jaggu",
+      "Timdore",
+      "Gumti"
+     ]
+    },
+    {
+     "name": "Gayuk",
+     "areas": [
+      "Gayuk Town",
+      "Chikila",
+      "Lagdo"
+     ]
+    },
+    {
+     "name": "Gombi",
+     "areas": [
+      "Gombi Town",
+      "Garkida",
+      "Tawa",
+      "Guyaku",
+      "Boaz"
+     ]
+    },
+    {
+     "name": "Grie",
+     "areas": [
+      "Grie Town",
+      "Ndikong",
+      "Yelwa"
+     ]
+    },
+    {
+     "name": "Hong",
+     "areas": [
+      "Hong Town",
+      "Uba",
+      "Shangui",
+      "Mayo Kuli",
+      "Kwarhi"
+     ]
+    },
+    {
+     "name": "Jada",
+     "areas": [
+      "Jada Town",
+      "Mapeo",
+      "Mbulo"
+     ]
+    },
+    {
+     "name": "Lamurde",
+     "areas": [
+      "Lamurde Town",
+      "Tola",
+      "Kwaja",
+      "Waltandi"
+     ]
+    },
+    {
+     "name": "Madagali",
+     "areas": [
+      "Madagali Town",
+      "Gulak",
+      "Shuwa",
+      "Duhu",
+      "Pallam",
+      "Wagga"
+     ]
+    },
+    {
+     "name": "Maiha",
+     "areas": [
+      "Maiha Town",
+      "Humbutudi",
+      "Belel",
+      "Mayo Ine"
+     ]
+    },
+    {
+     "name": "Mayo Belwa",
+     "areas": [
+      "Mayo Belwa Town",
+      "Ndikong",
+      "Binyeri",
+      "Jereng",
+      "Betso",
+      "Sorau"
+     ]
+    },
+    {
+     "name": "Michika",
+     "areas": [
+      "Michika Town",
+      "Lughu",
+      "Moda",
+      "Bazza",
+      "Futudou"
+     ]
+    },
+    {
+     "name": "Mubi North",
+     "areas": [
+      "Mubi Town",
+      "Yelwa",
+      "Lokuwa",
+      "Kolere",
+      "Digil"
+     ]
+    },
+    {
+     "name": "Mubi South",
+     "areas": [
+      "Mubi South Town",
+      "Gella",
+      "Dugunyi",
+      "Vimtim",
+      "Bahuli"
+     ]
+    },
+    {
+     "name": "Numan",
+     "areas": [
+      "Numan Town",
+      "Bolki",
+      "Imburu",
+      "Gaanda",
+      "Kodomti"
+     ]
+    },
+    {
+     "name": "Shelleng",
+     "areas": [
+      "Shelleng Town",
+      "Bakta",
+      "Libbo",
+      "Bodeno",
+      "Gundo"
+     ]
+    },
+    {
+     "name": "Song",
+     "areas": [
+      "Song Town",
+      "Zumo",
+      "Gudu",
+      "Gyawana",
+      "Waltandi"
+     ]
+    },
+    {
+     "name": "Toungo",
+     "areas": [
+      "Toungo Town",
+      "Gurum",
+      "Mbamba",
+      "Dowaya"
+     ]
+    },
+    {
+     "name": "Yola North",
+     "areas": [
+      "Jimeta",
+      "Doubeli",
+      "Karewa",
+      "Alkalawa",
+      "Bachure"
+     ]
+    },
+    {
+     "name": "Yola South",
+     "areas": [
+      "Yola Town",
+      "Namtari",
+      "Bagale",
+      "Nasarawo Jereng",
+      "Limawa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Akwa Ibom",
+   "capital": "Uyo",
+   "lgas": [
+    {
+     "name": "Abak",
+     "areas": [
+      "Abak Town",
+      "Otoro",
+      "Midim",
+      "Afaha Obong",
+      "Ikot Nkor"
+     ]
+    },
+    {
+     "name": "Eastern Obolo",
+     "areas": [
+      "Okoroete",
+      "Ikuru Town",
+      "Iko",
+      "Ataba",
+      "Ine Town"
+     ]
+    },
+    {
+     "name": "Eket",
+     "areas": [
+      "Eket Town",
+      "Ikot Udo",
+      "Afaha Eket",
+      "Idua",
+      "Ikot Ebidang"
+     ]
+    },
+    {
+     "name": "Esit Eket",
+     "areas": [
+      "Uquo",
+      "Ekpene Obo",
+      "Mbo Ime",
+      "Ikot Ukap",
+      "Okoroutip"
+     ]
+    },
+    {
+     "name": "Essien Udim",
+     "areas": [
+      "Ikot Okoro",
+      "Afaha Ikot Ebak",
+      "Ukana",
+      "Adiasim",
+      "Ikot Eyo"
+     ]
+    },
+    {
+     "name": "Etim Ekpo",
+     "areas": [
+      "Utu Etim Ekpo",
+      "Ikot Akpan",
+      "Ikot Ukana",
+      "Ikot Ekpene Etim"
+     ]
+    },
+    {
+     "name": "Etinan",
+     "areas": [
+      "Etinan Town",
+      "Ikot Ebak",
+      "Nung Udoe",
+      "Afaha Etinan",
+      "Ikot Abasi Itam"
+     ]
+    },
+    {
+     "name": "Ibeno",
+     "areas": [
+      "Upenekang",
+      "Iwuo Okpom",
+      "Mkpanak",
+      "Ewa Oro",
+      "Eyo Abasi"
+     ]
+    },
+    {
+     "name": "Ibesikpo Asutan",
+     "areas": [
+      "Nung Udoe",
+      "Ikot Oku Ikono",
+      "Ikot Ebiere",
+      "Ikot Nkwa",
+      "Ididep"
+     ]
+    },
+    {
+     "name": "Ibiono Ibom",
+     "areas": [
+      "Ikot Obio Itong",
+      "Ikot Edor",
+      "Ikot Obio Edim",
+      "Ikot Ibritam",
+      "Nkpa"
+     ]
+    },
+    {
+     "name": "Ika",
+     "areas": [
+      "Ikot Akpan Ika",
+      "Ikot Okwot",
+      "Ikot Ubo",
+      "Ito Ika",
+      "Afaha Ika"
+     ]
+    },
+    {
+     "name": "Ikono",
+     "areas": [
+      "Ikot Ekpene Ikono",
+      "Ibiaku Ikono",
+      "Ikot Akpan Eda",
+      "Ito",
+      "Obio Ikono"
+     ]
+    },
+    {
+     "name": "Ikot Abasi",
+     "areas": [
+      "Ikot Abasi Town",
+      "Ikot Abia",
+      "Mkpat Abasi",
+      "Ikot Idem",
+      "Ikot Akpaden"
+     ]
+    },
+    {
+     "name": "Ikot Ekpene",
+     "areas": [
+      "Ikot Ekpene Town",
+      "Ikot Itie",
+      "Ikot Ntuen",
+      "Ibekwe",
+      "Ndon Eyo"
+     ]
+    },
+    {
+     "name": "Ini",
+     "areas": [
+      "Ikot Ntuen",
+      "Nkari",
+      "Ikot Umoh Ini",
+      "Ikot Akpa Ini",
+      "Itak"
+     ]
+    },
+    {
+     "name": "Itu",
+     "areas": [
+      "Itu Town",
+      "Ikot Ekpene Itu",
+      "Ntak Inyang",
+      "Ikot Okubo",
+      "Mbiabong"
+     ]
+    },
+    {
+     "name": "Mbo",
+     "areas": [
+      "Mbo Town",
+      "Okopedi",
+      "Effiat",
+      "Ebughu",
+      "Itak Abasi",
+      "Udesi"
+     ]
+    },
+    {
+     "name": "Mkpat Enin",
+     "areas": [
+      "Ikot Abasi Mkpat",
+      "Mkpat Enin Town",
+      "Ikot Okure",
+      "Use Ikot Amama",
+      "Ikot Ibiok"
+     ]
+    },
+    {
+     "name": "Nsit Atai",
+     "areas": [
+      "Odoro Ikot",
+      "Ikot Abia",
+      "Ikot Ukpong",
+      "Edem Itam",
+      "Akpa"
+     ]
+    },
+    {
+     "name": "Nsit Ibom",
+     "areas": [
+      "Itak",
+      "Nung Ikono",
+      "Ikot Okpon",
+      "Ikot Ukpong Nsit",
+      "Mbak"
+     ]
+    },
+    {
+     "name": "Nsit Ubium",
+     "areas": [
+      "Ntak Inyang",
+      "Ikot Uso Akpan",
+      "Ikot Akpa Nkuk",
+      "Itak Ikot Akpan",
+      "Ikot Obio Etok"
+     ]
+    },
+    {
+     "name": "Obot Akara",
+     "areas": [
+      "Obot Akara Town",
+      "Ikot Akpan Abia",
+      "Ikot Obong",
+      "Nto Ndang",
+      "Ikot Ibok"
+     ]
+    },
+    {
+     "name": "Okobo",
+     "areas": [
+      "Okobo Town",
+      "Ibaka",
+      "Ikot Ekong",
+      "Ikot Iba",
+      "Ekeya"
+     ]
+    },
+    {
+     "name": "Onna",
+     "areas": [
+      "Abat",
+      "Okon",
+      "Mkpok",
+      "Onna Town",
+      "Ikot Abasi Onna"
+     ]
+    },
+    {
+     "name": "Oron",
+     "areas": [
+      "Oron Town",
+      "Idua Oron",
+      "Okobo Oron",
+      "Iquita"
+     ]
+    },
+    {
+     "name": "Oruk Anam",
+     "areas": [
+      "Ikot Abasi Oruk",
+      "Ikot Okpora",
+      "Ikot Ekong",
+      "Ukpom",
+      "Ikot Obio Ata"
+     ]
+    },
+    {
+     "name": "Udung Uko",
+     "areas": [
+      "Udung Uko Town",
+      "Ikot Ukpong",
+      "Okiuso",
+      "Ikpe Ikot Nkon",
+      "Ikot Itie"
+     ]
+    },
+    {
+     "name": "Ukanafun",
+     "areas": [
+      "Ukanafun Town",
+      "Ikot Akpan",
+      "Ikot Udo",
+      "Ikot Obio Ukanafun",
+      "Ndiya"
+     ]
+    },
+    {
+     "name": "Uruan",
+     "areas": [
+      "Idu Uruan",
+      "Ikot Ekpene Uruan",
+      "Ikot Ikpe",
+      "Nung Oku",
+      "Ibiaku Uruan"
+     ]
+    },
+    {
+     "name": "Urue-Offong/Oruko",
+     "areas": [
+      "Okopedi",
+      "Ikot Mbo",
+      "Ikot Ebom",
+      "Eyofin",
+      "Ikot Akpa"
+     ]
+    },
+    {
+     "name": "Uyo",
+     "areas": [
+      "Uyo Town",
+      "Ewet Housing",
+      "Shelter Afrique",
+      "Ibesikpo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Anambra",
+   "capital": "Awka",
+   "lgas": [
+    {
+     "name": "Aguata",
+     "areas": [
+      "Ekwulobia",
+      "Igboukwu",
+      "Isuofia",
+      "Umuona",
+      "Aguluezechukwu",
+      "Nkpologwu"
+     ]
+    },
+    {
+     "name": "Anambra East",
+     "areas": [
+      "Otuocha",
+      "Aguleri",
+      "Nsugbe",
+      "Igbariam",
+      "Umueri",
+      "Nando"
+     ]
+    },
+    {
+     "name": "Anambra West",
+     "areas": [
+      "Nzam",
+      "Ifite Ogwari",
+      "Oroma Etiti",
+      "Umueze Anam",
+      "Nneyi Umuleri"
+     ]
+    },
+    {
+     "name": "Anaocha",
+     "areas": [
+      "Neni",
+      "Agulu",
+      "Adazi Nnukwu",
+      "Adazi-Ani",
+      "Nri",
+      "Obeledu"
+     ]
+    },
+    {
+     "name": "Awka North",
+     "areas": [
+      "Achalla",
+      "Amansea",
+      "Awba Ofemili",
+      "Ugbenu",
+      "Mgbakwu",
+      "Isuaniocha"
+     ]
+    },
+    {
+     "name": "Awka South",
+     "areas": [
+      "Awka Town",
+      "Amawbia",
+      "Nibo",
+      "Mbaukwu",
+      "Nise",
+      "Okpuno"
+     ]
+    },
+    {
+     "name": "Ayamelum",
+     "areas": [
+      "Ifite Ogwari",
+      "Anaku",
+      "Omor",
+      "Omasi",
+      "Igbakwu",
+      "Umumbo"
+     ]
+    },
+    {
+     "name": "Dunukofia",
+     "areas": [
+      "Ukpo",
+      "Ukwulu",
+      "Umunnachi",
+      "Umudioka",
+      "Ezinifite",
+      "Nawfia"
+     ]
+    },
+    {
+     "name": "Ekwusigo",
+     "areas": [
+      "Ozubulu",
+      "Ichi",
+      "Ihembosi",
+      "Oraifite",
+      "Ekwulumili",
+      "Ohaji"
+     ]
+    },
+    {
+     "name": "Idemili North",
+     "areas": [
+      "Ogidi",
+      "Abatete",
+      "Eziowelle",
+      "Nkpor",
+      "Uke",
+      "Oba"
+     ]
+    },
+    {
+     "name": "Idemili South",
+     "areas": [
+      "Ojoto",
+      "Alor",
+      "Nnobi",
+      "Akwu Ukwu",
+      "Oba",
+      "Obosi"
+     ]
+    },
+    {
+     "name": "Ihiala",
+     "areas": [
+      "Ihiala Town",
+      "Azia",
+      "Okija",
+      "Lilu",
+      "Orsumoghu",
+      "Uli"
+     ]
+    },
+    {
+     "name": "Njikoka",
+     "areas": [
+      "Abagana",
+      "Enugwu-Ukwu",
+      "Nimo",
+      "Abba",
+      "Enugu-Agidi",
+      "Nawfia"
+     ]
+    },
+    {
+     "name": "Nnewi North",
+     "areas": [
+      "Nnewi Town",
+      "Nnewichi",
+      "Otolo",
+      "Uruagu",
+      "Umudim",
+      "Nnewi-Ichi"
+     ]
+    },
+    {
+     "name": "Nnewi South",
+     "areas": [
+      "Ukpor",
+      "Ukpo",
+      "Utuh",
+      "Amichi",
+      "Azigbo",
+      "Ebenator"
+     ]
+    },
+    {
+     "name": "Ogbaru",
+     "areas": [
+      "Atani",
+      "Ogwu Ikpele",
+      "Ochuche Umuodu",
+      "Okpoko",
+      "Amiyi",
+      "Odekpe"
+     ]
+    },
+    {
+     "name": "Onitsha North",
+     "areas": [
+      "Onitsha Main Market",
+      "Fegge",
+      "Woliwo",
+      "Odoakpu",
+      "GRA Onitsha"
+     ]
+    },
+    {
+     "name": "Onitsha South",
+     "areas": [
+      "Inland Town",
+      "Ogbeolu",
+      "Awada",
+      "Omagba",
+      "Odume"
+     ]
+    },
+    {
+     "name": "Orumba North",
+     "areas": [
+      "Ajali",
+      "Awgbu",
+      "Nanka",
+      "Ndikelionwu",
+      "Oko",
+      "Ufuma"
+     ]
+    },
+    {
+     "name": "Orumba South",
+     "areas": [
+      "Umunze",
+      "Eziagu",
+      "Ihite",
+      "Ogbunka",
+      "Awa",
+      "Ezira"
+     ]
+    },
+    {
+     "name": "Oyi",
+     "areas": [
+      "Nteje",
+      "Awkuzu",
+      "Ogbunike",
+      "Umunya",
+      "Nkwelle Ezunaka"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bauchi",
+   "capital": "Bauchi",
+   "lgas": [
+    {
+     "name": "Alkaleri",
+     "areas": [
+      "Alkaleri Town",
+      "Pali",
+      "Futuk",
+      "Duguri",
+      "Yelwa Alkaleri",
+      "Gar"
+     ]
+    },
+    {
+     "name": "Bauchi",
+     "areas": [
+      "Bauchi Town",
+      "Wunti",
+      "Gwallameji",
+      "Yelwa Tudu",
+      "Makama",
+      "Dungal"
+     ]
+    },
+    {
+     "name": "Bogoro",
+     "areas": [
+      "Bogoro Town",
+      "Tapshin",
+      "Kwaltaki"
+     ]
+    },
+    {
+     "name": "Damban",
+     "areas": [
+      "Damban Town",
+      "Zindi",
+      "Ragwam",
+      "Yaya"
+     ]
+    },
+    {
+     "name": "Darazo",
+     "areas": [
+      "Darazo Town",
+      "Lanzai",
+      "Sade",
+      "Gabarin"
+     ]
+    },
+    {
+     "name": "Dass",
+     "areas": [
+      "Dass Town",
+      "Zumbul",
+      "Bununu",
+      "Gwada",
+      "Mundi"
+     ]
+    },
+    {
+     "name": "Gamawa",
+     "areas": [
+      "Gamawa Town",
+      "Bulkachuwa",
+      "Yunusari",
+      "Udubo"
+     ]
+    },
+    {
+     "name": "Ganjuwa",
+     "areas": [
+      "Ganjuwa Town",
+      "Kafin Madaki",
+      "Buzaye",
+      "Jugudu"
+     ]
+    },
+    {
+     "name": "Giade",
+     "areas": [
+      "Giade Town",
+      "Kuka",
+      "Zaura",
+      "Dagauda",
+      "Karfi"
+     ]
+    },
+    {
+     "name": "Itas/Gadau",
+     "areas": [
+      "Gadau",
+      "Itas",
+      "Kanya",
+      "Rumi",
+      "Madara"
+     ]
+    },
+    {
+     "name": "Jama'are",
+     "areas": [
+      "Jama'are Town",
+      "Chinade",
+      "Ajiya",
+      "Dogon Jeji",
+      "Gundumi"
+     ]
+    },
+    {
+     "name": "Katagum",
+     "areas": [
+      "Azare",
+      "Madara",
+      "Chinade",
+      "Madangala",
+      "Jambo"
+     ]
+    },
+    {
+     "name": "Kirfi",
+     "areas": [
+      "Kirfi Town",
+      "Wanka",
+      "Gar",
+      "Dangari"
+     ]
+    },
+    {
+     "name": "Misau",
+     "areas": [
+      "Misau Town",
+      "Zadawa",
+      "Hardawa",
+      "Gubi",
+      "Tofa"
+     ]
+    },
+    {
+     "name": "Ningi",
+     "areas": [
+      "Ningi Town",
+      "Tiffi",
+      "Gwaram",
+      "Dawaki",
+      "Burra",
+      "Kafin Madaki"
+     ]
+    },
+    {
+     "name": "Shira",
+     "areas": [
+      "Shira Town",
+      "Gubi",
+      "Disina",
+      "Yana",
+      "Zindi"
+     ]
+    },
+    {
+     "name": "Tafawa Balewa",
+     "areas": [
+      "Tafawa Balewa Town",
+      "Bula",
+      "Lere",
+      "Gar",
+      "Burra"
+     ]
+    },
+    {
+     "name": "Toro",
+     "areas": [
+      "Toro Town",
+      "Rahama",
+      "Lame",
+      "Gumau"
+     ]
+    },
+    {
+     "name": "Warji",
+     "areas": [
+      "Warji Town",
+      "Dagwama",
+      "Gwaltu",
+      "Bumba",
+      "Gar Warji"
+     ]
+    },
+    {
+     "name": "Zaki",
+     "areas": [
+      "Zaki Town",
+      "Katagum Zaki",
+      "Katuka",
+      "Mazaza",
+      "Kari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bayelsa",
+   "capital": "Yenagoa",
+   "lgas": [
+    {
+     "name": "Brass",
+     "areas": [
+      "Twon-Brass",
+      "Okpoama",
+      "Ewoama",
+      "Sangana",
+      "Akassa",
+      "Odioma"
+     ]
+    },
+    {
+     "name": "Ekeremor",
+     "areas": [
+      "Ekeremor Town",
+      "Aghoro",
+      "Oweikorogha",
+      "Ikebiri",
+      "Tarakiri"
+     ]
+    },
+    {
+     "name": "Kolokuma/Opokuma",
+     "areas": [
+      "Kaiama",
+      "Opokuma",
+      "Kolokuma",
+      "Ayama",
+      "Amassoma"
+     ]
+    },
+    {
+     "name": "Nembe",
+     "areas": [
+      "Nembe Town",
+      "Bassambiri",
+      "Ogbolomabiri",
+      "Okoroma"
+     ]
+    },
+    {
+     "name": "Ogbia",
+     "areas": [
+      "Ogbia Town",
+      "Oloibiri",
+      "Otuoke",
+      "Kolo",
+      "Akipelai",
+      "Anyama"
+     ]
+    },
+    {
+     "name": "Sagbama",
+     "areas": [
+      "Sagbama Town",
+      "Agbere",
+      "Mbiama",
+      "Ofoni",
+      "Tungbo",
+      "Torugbene"
+     ]
+    },
+    {
+     "name": "Southern Ijaw",
+     "areas": [
+      "Oporoma",
+      "Amassoma",
+      "Ikebiri",
+      "Ukubie",
+      "Ogobiri",
+      "Kolokolo"
+     ]
+    },
+    {
+     "name": "Yenagoa",
+     "areas": [
+      "Yenagoa Town",
+      "Okaka",
+      "Ovom",
+      "Etegwe",
+      "Kpansia",
+      "Swali",
+      "Epie"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Benue",
+   "capital": "Makurdi",
+   "lgas": [
+    {
+     "name": "Ado",
+     "areas": [
+      "Igumale",
+      "Ado Town",
+      "Ogbilolo",
+      "Ekile"
+     ]
+    },
+    {
+     "name": "Agatu",
+     "areas": [
+      "Obagaji",
+      "Okpagabi",
+      "Adagbo",
+      "Aila",
+      "Ugboju"
+     ]
+    },
+    {
+     "name": "Apa",
+     "areas": [
+      "Ugbokpo",
+      "Iga Okpaya",
+      "Ochekwu",
+      "Edikwu",
+      "Oba Apa"
+     ]
+    },
+    {
+     "name": "Buruku",
+     "areas": [
+      "Buruku Town",
+      "Binev",
+      "Mbagen",
+      "Mbayion",
+      "Mbaiwa"
+     ]
+    },
+    {
+     "name": "Gboko",
+     "areas": [
+      "Gboko Town",
+      "Yandev",
+      "Mkar",
+      "Tse-Kucha",
+      "Mbayegh"
+     ]
+    },
+    {
+     "name": "Guma",
+     "areas": [
+      "Gbajimba",
+      "Yelwata",
+      "Nagi",
+      "Abinsi",
+      "Mbalagh"
+     ]
+    },
+    {
+     "name": "Gwer East",
+     "areas": [
+      "Aliade",
+      "Ikyoawen",
+      "Tyodough",
+      "Abagena",
+      "Ukohol"
+     ]
+    },
+    {
+     "name": "Gwer West",
+     "areas": [
+      "Naka",
+      "Ugbema",
+      "Mbalom",
+      "Mbakyaan",
+      "Agasha"
+     ]
+    },
+    {
+     "name": "Katsina-Ala",
+     "areas": [
+      "Katsina-Ala Town",
+      "Tse Adi",
+      "Mbawar",
+      "Abwa",
+      "Mbapa"
+     ]
+    },
+    {
+     "name": "Konshisha",
+     "areas": [
+      "Awajir",
+      "Mbawa",
+      "Mbayongo",
+      "Anyiin",
+      "Tse Adoo"
+     ]
+    },
+    {
+     "name": "Kwande",
+     "areas": [
+      "Adikpo",
+      "Jato Aka",
+      "Turan",
+      "Mbatiav",
+      "Tse Mbaikyor"
+     ]
+    },
+    {
+     "name": "Logo",
+     "areas": [
+      "Ugba",
+      "Ayilamo",
+      "Ahenayol",
+      "Mbaakpur",
+      "Tse Ahenayol"
+     ]
+    },
+    {
+     "name": "Makurdi",
+     "areas": [
+      "Makurdi Town",
+      "North Bank",
+      "Wurukum",
+      "Wadata",
+      "High Level",
+      "Fiidi"
+     ]
+    },
+    {
+     "name": "Obi",
+     "areas": [
+      "Obarike-Ito",
+      "Adum",
+      "Obi Town",
+      "Ihugh"
+     ]
+    },
+    {
+     "name": "Ogbadibo",
+     "areas": [
+      "Otukpa",
+      "Ugbokpo Ogbadibo",
+      "Orokam",
+      "Ochekwu",
+      "Itobe"
+     ]
+    },
+    {
+     "name": "Ohimini",
+     "areas": [
+      "Idekpa",
+      "Ohimini Town",
+      "Okpe",
+      "Ogbaulu"
+     ]
+    },
+    {
+     "name": "Oju",
+     "areas": [
+      "Oju Town",
+      "Ukpa",
+      "Itakpa",
+      "Adum East",
+      "Obuga"
+     ]
+    },
+    {
+     "name": "Okpokwu",
+     "areas": [
+      "Okpoga",
+      "Ichama",
+      "Ugbokolo",
+      "Ukwo",
+      "Ofute"
+     ]
+    },
+    {
+     "name": "Otukpo",
+     "areas": [
+      "Otukpo Town",
+      "Adoka",
+      "Otobi",
+      "Ugbokolo Otukpo"
+     ]
+    },
+    {
+     "name": "Tarka",
+     "areas": [
+      "Wannune",
+      "Tarka Town",
+      "Mbaikpa",
+      "Gbaamwe",
+      "Tse Kuri"
+     ]
+    },
+    {
+     "name": "Ukum",
+     "areas": [
+      "Sankera",
+      "Zaki-Biam",
+      "Tsar",
+      "Kumakwagh",
+      "Ukum Town"
+     ]
+    },
+    {
+     "name": "Ushongo",
+     "areas": [
+      "Lessel",
+      "Mbayev",
+      "Tse Gbaagber",
+      "Mbaduku",
+      "Tarkighir"
+     ]
+    },
+    {
+     "name": "Vandeikya",
+     "areas": [
+      "Vandeikya Town",
+      "Tiev",
+      "Mbaakon",
+      "Tse Mbaaior",
+      "Mbatsav"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Borno",
+   "capital": "Maiduguri",
+   "lgas": [
+    {
+     "name": "Abadam",
+     "areas": [
+      "Malam Fatori",
+      "Abadam Town",
+      "Kangarwa"
+     ]
+    },
+    {
+     "name": "Askira/Uba",
+     "areas": [
+      "Askira",
+      "Uba",
+      "Mussa",
+      "Wamdeo"
+     ]
+    },
+    {
+     "name": "Bama",
+     "areas": [
+      "Bama Town",
+      "Banki",
+      "Soye",
+      "Kasugula",
+      "Mulgwe"
+     ]
+    },
+    {
+     "name": "Bayo",
+     "areas": [
+      "Bayo Town",
+      "Briyel",
+      "Kubo"
+     ]
+    },
+    {
+     "name": "Biu",
+     "areas": [
+      "Biu Town",
+      "Miringa",
+      "Gurum",
+      "Garubula"
+     ]
+    },
+    {
+     "name": "Chibok",
+     "areas": [
+      "Chibok Town",
+      "Kautikari",
+      "Mbalala",
+      "Pemi",
+      "Thlaimakwa"
+     ]
+    },
+    {
+     "name": "Damboa",
+     "areas": [
+      "Damboa Town",
+      "Sabon Gari",
+      "Wajiroko",
+      "Azir",
+      "Dalwa"
+     ]
+    },
+    {
+     "name": "Dikwa",
+     "areas": [
+      "Dikwa Town",
+      "Ajiri",
+      "Waza"
+     ]
+    },
+    {
+     "name": "Gubio",
+     "areas": [
+      "Gubio Town",
+      "Zowo",
+      "Yau",
+      "Kaska"
+     ]
+    },
+    {
+     "name": "Guzamala",
+     "areas": [
+      "Gudumbali",
+      "Wulgo",
+      "Gajiganna",
+      "Mbirim",
+      "Kareto"
+     ]
+    },
+    {
+     "name": "Gwoza",
+     "areas": [
+      "Gwoza Town",
+      "Pulka",
+      "Ngoshe",
+      "Attagara",
+      "Lassa"
+     ]
+    },
+    {
+     "name": "Hawul",
+     "areas": [
+      "Azare Hawul",
+      "Hawul Town",
+      "Marama",
+      "Mbila",
+      "Wuyaku"
+     ]
+    },
+    {
+     "name": "Jere",
+     "areas": [
+      "Khaddamari",
+      "Dalori",
+      "Gongulong",
+      "Mairi",
+      "Zabarmari",
+      "Molai"
+     ]
+    },
+    {
+     "name": "Kaga",
+     "areas": [
+      "Benisheikh",
+      "Mashio",
+      "Kaga Town",
+      "Dumbari",
+      "Ngom"
+     ]
+    },
+    {
+     "name": "Kala/Balge",
+     "areas": [
+      "Rann",
+      "Kala",
+      "Balge",
+      "Ala",
+      "Dabar Wanzam"
+     ]
+    },
+    {
+     "name": "Konduga",
+     "areas": [
+      "Konduga Town",
+      "Bale",
+      "Kayamla",
+      "Dalori Two"
+     ]
+    },
+    {
+     "name": "Kukawa",
+     "areas": [
+      "Kukawa Town",
+      "Baga",
+      "Doro",
+      "Kangarwa"
+     ]
+    },
+    {
+     "name": "Kwaya Kusar",
+     "areas": [
+      "Kwaya Kusar Town",
+      "Kaiyamari",
+      "Shaffa"
+     ]
+    },
+    {
+     "name": "Mafa",
+     "areas": [
+      "Mafa Town",
+      "Kayamla",
+      "Ngala Mafa"
+     ]
+    },
+    {
+     "name": "Magumeri",
+     "areas": [
+      "Magumeri Town",
+      "Jakana",
+      "Alau",
+      "Kabir",
+      "Mageri"
+     ]
+    },
+    {
+     "name": "Maiduguri",
+     "areas": [
+      "Maiduguri Metropolis",
+      "Bolori",
+      "Gwange",
+      "Old Maiduguri",
+      "Shehuri",
+      "Mashamari"
+     ]
+    },
+    {
+     "name": "Marte",
+     "areas": [
+      "Marte Town",
+      "Kirenowa",
+      "Kekeno",
+      "Chingurmi"
+     ]
+    },
+    {
+     "name": "Mobbar",
+     "areas": [
+      "Damasak",
+      "Mobbar Town",
+      "Kangarwa",
+      "Ngwom",
+      "Yaza"
+     ]
+    },
+    {
+     "name": "Monguno",
+     "areas": [
+      "Monguno Town",
+      "Gana Ali",
+      "Malari"
+     ]
+    },
+    {
+     "name": "Ngala",
+     "areas": [
+      "Ngala Town",
+      "Gamboru",
+      "Dar Jamal"
+     ]
+    },
+    {
+     "name": "Nganzai",
+     "areas": [
+      "Gajiram",
+      "Nganzai Town",
+      "Kaza"
+     ]
+    },
+    {
+     "name": "Shani",
+     "areas": [
+      "Shani Town",
+      "Lasaru"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cross River",
+   "capital": "Calabar",
+   "lgas": [
+    {
+     "name": "Abi",
+     "areas": [
+      "Ediba",
+      "Usumutong",
+      "Itigidi"
+     ]
+    },
+    {
+     "name": "Akamkpa",
+     "areas": [
+      "Akamkpa Town",
+      "Oban",
+      "Ukpon",
+      "Mbarakom",
+      "Esuk Mba"
+     ]
+    },
+    {
+     "name": "Akpabuyo",
+     "areas": [
+      "Ikot Nakanda",
+      "Ikot Edem Odo",
+      "Ikot Eneobong",
+      "Ikot Esop"
+     ]
+    },
+    {
+     "name": "Bakassi",
+     "areas": [
+      "Ikang",
+      "Abana",
+      "Atabong",
+      "Akpa Okuti",
+      "Archibong Town"
+     ]
+    },
+    {
+     "name": "Bekwarra",
+     "areas": [
+      "Abuochiche",
+      "Ukpah",
+      "Ibiaragidi",
+      "Beten",
+      "Gakem"
+     ]
+    },
+    {
+     "name": "Biase",
+     "areas": [
+      "Akpet Central",
+      "Abini",
+      "Umon",
+      "Ibini",
+      "Aya"
+     ]
+    },
+    {
+     "name": "Boki",
+     "areas": [
+      "Boje",
+      "Ofutop",
+      "Bumaji",
+      "Nsadop",
+      "Buentsebe"
+     ]
+    },
+    {
+     "name": "Calabar Municipal",
+     "areas": [
+      "Calabar Town",
+      "Atimbo",
+      "Diamond Hill",
+      "Marian",
+      "Ikot Ansa",
+      "Big Qua"
+     ]
+    },
+    {
+     "name": "Calabar South",
+     "areas": [
+      "Efut",
+      "Ekpo Abasi",
+      "Mount Zion",
+      "Anantigha",
+      "Ikot Omin",
+      "Uwanse"
+     ]
+    },
+    {
+     "name": "Etung",
+     "areas": [
+      "Etomi",
+      "Mbe",
+      "Ofodua",
+      "Agbokim",
+      "Bendeghe"
+     ]
+    },
+    {
+     "name": "Ikom",
+     "areas": [
+      "Ikom Town",
+      "Ofutop",
+      "Nkarasi",
+      "Nde",
+      "Okuni",
+      "Danare"
+     ]
+    },
+    {
+     "name": "Obanliku",
+     "areas": [
+      "Sankwala",
+      "Bendi",
+      "Butatong",
+      "Obanliku Town",
+      "Bisu"
+     ]
+    },
+    {
+     "name": "Obubra",
+     "areas": [
+      "Obubra Town",
+      "Ochon",
+      "Iyamoyong",
+      "Apiapum",
+      "Ofat"
+     ]
+    },
+    {
+     "name": "Obudu",
+     "areas": [
+      "Obudu Town",
+      "Ukpe",
+      "Begiaba",
+      "Ipong",
+      "Obudu Cattle Ranch"
+     ]
+    },
+    {
+     "name": "Odukpani",
+     "areas": [
+      "Odukpani Town",
+      "Ikot Ekpo",
+      "Ito",
+      "Adiabo",
+      "Eki Eki",
+      "Ediba Odukpani"
+     ]
+    },
+    {
+     "name": "Ogoja",
+     "areas": [
+      "Ogoja Town",
+      "Ekajuk",
+      "Igoli",
+      "Nkim",
+      "Ishibori"
+     ]
+    },
+    {
+     "name": "Yakuur",
+     "areas": [
+      "Ugep",
+      "Mkpani",
+      "Nko",
+      "Ijiman",
+      "Idomi"
+     ]
+    },
+    {
+     "name": "Yala",
+     "areas": [
+      "Okuku",
+      "Yala Town",
+      "Ikot Yala",
+      "Ntun",
+      "Ijiegu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Delta",
+   "capital": "Asaba",
+   "lgas": [
+    {
+     "name": "Aniocha North",
+     "areas": [
+      "Issele-Uku",
+      "Obior",
+      "Ugboba",
+      "Onicha-Olona"
+     ]
+    },
+    {
+     "name": "Aniocha South",
+     "areas": [
+      "Ogwashi-Uku",
+      "Obetim",
+      "Aboh Aniocha",
+      "Ubulu-Uku",
+      "Akwukwu-Igbo"
+     ]
+    },
+    {
+     "name": "Bomadi",
+     "areas": [
+      "Bomadi Town",
+      "Ogriagbene",
+      "Ogrinagbene",
+      "Kpakiama",
+      "Koloware"
+     ]
+    },
+    {
+     "name": "Burutu",
+     "areas": [
+      "Burutu Town",
+      "Forcados",
+      "Ayakoromo",
+      "Ogulagha",
+      "Ojobo"
+     ]
+    },
+    {
+     "name": "Ethiope East",
+     "areas": [
+      "Isiokolo",
+      "Okpara-Inland",
+      "Agbon",
+      "Kokori"
+     ]
+    },
+    {
+     "name": "Ethiope West",
+     "areas": [
+      "Ugbokpo",
+      "Ologbo",
+      "Mosogar",
+      "Oghara",
+      "Jesse"
+     ]
+    },
+    {
+     "name": "Ika North East",
+     "areas": [
+      "Agbor",
+      "Boji-Boji Agbor",
+      "Owa",
+      "Ogbemudu"
+     ]
+    },
+    {
+     "name": "Ika South",
+     "areas": [
+      "Agbor",
+      "Umunede",
+      "Owa-Alidinma",
+      "Ute-Okpu",
+      "Obiaruku"
+     ]
+    },
+    {
+     "name": "Isoko North",
+     "areas": [
+      "Ozoro",
+      "Irri",
+      "Oleh",
+      "Emevor",
+      "Otor-Iyede"
+     ]
+    },
+    {
+     "name": "Isoko South",
+     "areas": [
+      "Oleh",
+      "Ofagbe",
+      "Uzere",
+      "Emede",
+      "Iyede"
+     ]
+    },
+    {
+     "name": "Ndokwa East",
+     "areas": [
+      "Aboh",
+      "Ashaka",
+      "Ogume",
+      "Ibrede",
+      "Utchi"
+     ]
+    },
+    {
+     "name": "Ndokwa West",
+     "areas": [
+      "Kwale",
+      "Obiaruku",
+      "Ogwuama",
+      "Umuebu"
+     ]
+    },
+    {
+     "name": "Okpe",
+     "areas": [
+      "Orerokpe",
+      "Okpe Town",
+      "Oha",
+      "Uguanja"
+     ]
+    },
+    {
+     "name": "Oshimili North",
+     "areas": [
+      "Akwukwu-Igbo",
+      "Ibusa",
+      "Okpanam",
+      "Ukala",
+      "Ibusa Town"
+     ]
+    },
+    {
+     "name": "Oshimili South",
+     "areas": [
+      "Asaba",
+      "Cable Point",
+      "Okwe",
+      "Oko",
+      "Ogbeokwe"
+     ]
+    },
+    {
+     "name": "Patani",
+     "areas": [
+      "Patani Town",
+      "Obotebe",
+      "Abari",
+      "Ayakoromo",
+      "Jaja"
+     ]
+    },
+    {
+     "name": "Sapele",
+     "areas": [
+      "Sapele Town",
+      "Amukpe",
+      "Ugolo",
+      "Okirigwe",
+      "Ogorode"
+     ]
+    },
+    {
+     "name": "Udu",
+     "areas": [
+      "Otor-Udu",
+      "Ovwian",
+      "Aladja",
+      "Ekete",
+      "Evwreni"
+     ]
+    },
+    {
+     "name": "Ughelli North",
+     "areas": [
+      "Ughelli",
+      "Otu-Jeremi",
+      "Evwreni",
+      "Olomu",
+      "Agbarho"
+     ]
+    },
+    {
+     "name": "Ughelli South",
+     "areas": [
+      "Otu-Jeremi",
+      "Ugbolokposo",
+      "Ekiugbo"
+     ]
+    },
+    {
+     "name": "Ukwuani",
+     "areas": [
+      "Obiaruku",
+      "Ebedei",
+      "Umutu",
+      "Amai",
+      "Ukwuani Town"
+     ]
+    },
+    {
+     "name": "Uvwie",
+     "areas": [
+      "Effurun",
+      "Enerhen",
+      "Ekpan",
+      "Okuokoko",
+      "Ugborikoko"
+     ]
+    },
+    {
+     "name": "Warri North",
+     "areas": [
+      "Koko",
+      "Ogheye",
+      "Ogbe-Ijoh",
+      "Ubeji",
+      "Ugbuokpo"
+     ]
+    },
+    {
+     "name": "Warri South",
+     "areas": [
+      "Warri",
+      "Okere",
+      "Ugbomro",
+      "Ubeji",
+      "Okumagba",
+      "Jakpa"
+     ]
+    },
+    {
+     "name": "Warri South West",
+     "areas": [
+      "Ogbe-Ijaw",
+      "Ugborodo",
+      "Ode-Itsekiri",
+      "Obaghoro",
+      "Ugbokan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ebonyi",
+   "capital": "Abakaliki",
+   "lgas": [
+    {
+     "name": "Abakaliki",
+     "areas": [
+      "Abakaliki Town",
+      "Nkaliki",
+      "Kpirikpiri",
+      "Azugwu",
+      "Ndiagu",
+      "Ezzamgbo"
+     ]
+    },
+    {
+     "name": "Afikpo North",
+     "areas": [
+      "Afikpo Town",
+      "Itim",
+      "Ozizza",
+      "Nguzu Edda",
+      "Amaizu"
+     ]
+    },
+    {
+     "name": "Afikpo South",
+     "areas": [
+      "Edda",
+      "Amangbala",
+      "Okpoha",
+      "Nkpoghoro",
+      "Ugwuaji"
+     ]
+    },
+    {
+     "name": "Ebonyi",
+     "areas": [
+      "Onueke",
+      "Ugwulangwu",
+      "Ezzagu"
+     ]
+    },
+    {
+     "name": "Ezza North",
+     "areas": [
+      "Ebiaji",
+      "Ekka",
+      "Ezza-Effium",
+      "Ogboji",
+      "Omege"
+     ]
+    },
+    {
+     "name": "Ezza South",
+     "areas": [
+      "Ezzamgbo",
+      "Ezza-Ukwu",
+      "Ngbo Ezza",
+      "Nkomoro",
+      "Okpoto"
+     ]
+    },
+    {
+     "name": "Ikwo",
+     "areas": [
+      "Ikwo Town",
+      "Noyo",
+      "Echara",
+      "Ndufu Echara",
+      "Ekpelu"
+     ]
+    },
+    {
+     "name": "Ishielu",
+     "areas": [
+      "Ezillo",
+      "Nkalagu",
+      "Ishielu Town",
+      "Ntezi"
+     ]
+    },
+    {
+     "name": "Ivo",
+     "areas": [
+      "Ishiagu",
+      "Ivo Town",
+      "Akaeze",
+      "Ihetutu",
+      "Oso"
+     ]
+    },
+    {
+     "name": "Izzi",
+     "areas": [
+      "Iboko",
+      "Ezza-Ihe",
+      "Ndieze Izzi",
+      "Ofoke",
+      "Ndiegu"
+     ]
+    },
+    {
+     "name": "Ohaozara",
+     "areas": [
+      "Obiozara",
+      "Uburu",
+      "Okposi",
+      "Okue",
+      "Ugwulangwu"
+     ]
+    },
+    {
+     "name": "Ohaukwu",
+     "areas": [
+      "Ngbo",
+      "Effium",
+      "Ezzamgbo Ohaukwu",
+      "Ekka",
+      "Ohaukwu Town"
+     ]
+    },
+    {
+     "name": "Onicha",
+     "areas": [
+      "Onicha Town",
+      "Isu Onicha",
+      "Ukawu",
+      "Okposi Onicha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Edo",
+   "capital": "Benin City",
+   "lgas": [
+    {
+     "name": "Akoko-Edo",
+     "areas": [
+      "Igarra",
+      "Okpe",
+      "Ibillo",
+      "Oja",
+      "Ojirami",
+      "Dagbala"
+     ]
+    },
+    {
+     "name": "Egor",
+     "areas": [
+      "Uselu",
+      "Ugbowo",
+      "Egor Town",
+      "Aduwawa",
+      "Ekosodin",
+      "Evbotubu"
+     ]
+    },
+    {
+     "name": "Esan Central",
+     "areas": [
+      "Irrua",
+      "Ewohimi",
+      "Ugbegun"
+     ]
+    },
+    {
+     "name": "Esan North-East",
+     "areas": [
+      "Uromi",
+      "Ugboha",
+      "Ekpon",
+      "Efandion"
+     ]
+    },
+    {
+     "name": "Esan South-East",
+     "areas": [
+      "Ubiaja",
+      "Ewu",
+      "Ebelle",
+      "Urohi"
+     ]
+    },
+    {
+     "name": "Esan West",
+     "areas": [
+      "Ekpoma",
+      "Emaudo",
+      "Ujemen",
+      "Ogwa",
+      "Iyenlen"
+     ]
+    },
+    {
+     "name": "Etsako Central",
+     "areas": [
+      "Fugar",
+      "Agenebode",
+      "Aviele",
+      "Ayogwiri"
+     ]
+    },
+    {
+     "name": "Etsako East",
+     "areas": [
+      "Agenebode",
+      "Iyora",
+      "Ekperi",
+      "Okpella",
+      "Weppa"
+     ]
+    },
+    {
+     "name": "Etsako West",
+     "areas": [
+      "Auchi",
+      "Jattu",
+      "South Ibie",
+      "Iyakpi",
+      "Aviele"
+     ]
+    },
+    {
+     "name": "Igueben",
+     "areas": [
+      "Igueben",
+      "Ekpon",
+      "Ugbegun",
+      "Ebhoiyi",
+      "Amahor"
+     ]
+    },
+    {
+     "name": "Ikpoba Okha",
+     "areas": [
+      "Ikpoba Hill",
+      "Oluku",
+      "Idogbo",
+      "Ekenwan",
+      "Aduwawa"
+     ]
+    },
+    {
+     "name": "Oredo",
+     "areas": [
+      "Benin City Centre",
+      "Ugbekun",
+      "GRA Benin"
+     ]
+    },
+    {
+     "name": "Orhionmwon",
+     "areas": [
+      "Abudu",
+      "Igbanke",
+      "Okada",
+      "Urhonigbe",
+      "Ugbogui"
+     ]
+    },
+    {
+     "name": "Ovia North-East",
+     "areas": [
+      "Okada",
+      "Ora",
+      "Iguobazuwa",
+      "Udo",
+      "Siluko",
+      "Ugo"
+     ]
+    },
+    {
+     "name": "Ovia South-West",
+     "areas": [
+      "Iguoriakhi",
+      "Ugbokun",
+      "Utesi",
+      "Evbonekpen"
+     ]
+    },
+    {
+     "name": "Owan East",
+     "areas": [
+      "Afuze",
+      "Emai",
+      "Otuo",
+      "Ozalla",
+      "Uzebba"
+     ]
+    },
+    {
+     "name": "Owan West",
+     "areas": [
+      "Sabongida-Ora",
+      "Warake",
+      "Uokha",
+      "Ighele",
+      "Ora"
+     ]
+    },
+    {
+     "name": "Uhunmwonde",
+     "areas": [
+      "Ehor",
+      "Ihovbor",
+      "Ugo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ekiti",
+   "capital": "Ado-Ekiti",
+   "lgas": [
+    {
+     "name": "Ado Ekiti",
+     "areas": [
+      "Ado Ekiti Town",
+      "Ajilosun",
+      "Adebayo",
+      "Okesa",
+      "Irona",
+      "Ilokun"
+     ]
+    },
+    {
+     "name": "Efon",
+     "areas": [
+      "Efon-Alaaye",
+      "Ita Ogbolu",
+      "Aaye"
+     ]
+    },
+    {
+     "name": "Ekiti East",
+     "areas": [
+      "Omuo-Ekiti",
+      "Aramoko",
+      "Isinbode",
+      "Ayegbaju"
+     ]
+    },
+    {
+     "name": "Ekiti South-West",
+     "areas": [
+      "Ilawe-Ekiti",
+      "Okemesi",
+      "Oke Ako",
+      "Ipole",
+      "Igbara-Odo"
+     ]
+    },
+    {
+     "name": "Ekiti West",
+     "areas": [
+      "Aramoko-Ekiti",
+      "Ipoti",
+      "Iyin-Ekiti",
+      "Ikoro",
+      "Erinmope"
+     ]
+    },
+    {
+     "name": "Emure",
+     "areas": [
+      "Emure-Ekiti",
+      "Ipole",
+      "Isaba",
+      "Ebiri",
+      "Oke Alafia"
+     ]
+    },
+    {
+     "name": "Gbonyin",
+     "areas": [
+      "Ode-Ekiti",
+      "Aisegba",
+      "Ayetoro",
+      "Ogotun",
+      "Ijesa Ekiti"
+     ]
+    },
+    {
+     "name": "Ido Osi",
+     "areas": [
+      "Ido-Ekiti",
+      "Ifaki",
+      "Usi",
+      "Ilogbo",
+      "Aaye"
+     ]
+    },
+    {
+     "name": "Ijero",
+     "areas": [
+      "Ijero-Ekiti",
+      "Ipoti",
+      "Ilogbo",
+      "Ode",
+      "Ejiyan"
+     ]
+    },
+    {
+     "name": "Ikere",
+     "areas": [
+      "Ikere-Ekiti",
+      "Ilawe",
+      "Ikere Town",
+      "Ise",
+      "Orin"
+     ]
+    },
+    {
+     "name": "Ikole",
+     "areas": [
+      "Ikole-Ekiti",
+      "Ijesa-Isu",
+      "Oke Ako",
+      "Ipao",
+      "Isinbode"
+     ]
+    },
+    {
+     "name": "Ilejemeje",
+     "areas": [
+      "Iye-Ekiti",
+      "Ijesa Ekiti",
+      "Ilemeje",
+      "Iyin"
+     ]
+    },
+    {
+     "name": "Irepodun/Ifelodun",
+     "areas": [
+      "Igede-Ekiti",
+      "Afao",
+      "Ajoni",
+      "Araromi Opin",
+      "Ilumoba"
+     ]
+    },
+    {
+     "name": "Ise/Orun",
+     "areas": [
+      "Ise-Ekiti",
+      "Orun-Ekiti",
+      "Ipele",
+      "Iyemero"
+     ]
+    },
+    {
+     "name": "Moba",
+     "areas": [
+      "Otun-Ekiti",
+      "Ipao",
+      "Ilafon",
+      "Osan",
+      "Oke-Ere"
+     ]
+    },
+    {
+     "name": "Oye",
+     "areas": [
+      "Oye-Ekiti",
+      "Ilupeju",
+      "Ayede",
+      "Ibiye",
+      "Isan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Enugu",
+   "capital": "Enugu",
+   "lgas": [
+    {
+     "name": "Aninri",
+     "areas": [
+      "Nenwe",
+      "Amagunze",
+      "Mgbowo",
+      "Oduma",
+      "Awhum",
+      "Isu-Aniocha"
+     ]
+    },
+    {
+     "name": "Awgu",
+     "areas": [
+      "Awgu Town",
+      "Mgbidi",
+      "Ugwueme",
+      "Obeagu",
+      "Mmaku",
+      "Ihe"
+     ]
+    },
+    {
+     "name": "Enugu East",
+     "areas": [
+      "Nkwubor",
+      "Trans-Ekulu",
+      "Abakpa",
+      "Ngwo",
+      "Emene",
+      "Nike"
+     ]
+    },
+    {
+     "name": "Enugu North",
+     "areas": [
+      "Independence Layout",
+      "Ogui",
+      "New Haven",
+      "Uwani",
+      "Asata",
+      "GRA Enugu"
+     ]
+    },
+    {
+     "name": "Enugu South",
+     "areas": [
+      "Uwani",
+      "Ogbete",
+      "Akwuke",
+      "Obiagu",
+      "Awkunanaw",
+      "Ibagwa Enugu"
+     ]
+    },
+    {
+     "name": "Ezeagu",
+     "areas": [
+      "Aguobu Owa",
+      "Oghe",
+      "Umumba Ndiagu",
+      "Ihe Ezeagu",
+      "Mgbowo"
+     ]
+    },
+    {
+     "name": "Igbo Etiti",
+     "areas": [
+      "Ogbede",
+      "Ohodo",
+      "Ukehe",
+      "Umuopu",
+      "Igbo-Etiti Town"
+     ]
+    },
+    {
+     "name": "Igbo Eze North",
+     "areas": [
+      "Enugu-Ezike",
+      "Ogurute",
+      "Umunko",
+      "Ette"
+     ]
+    },
+    {
+     "name": "Igbo Eze South",
+     "areas": [
+      "Ibagwa Aka",
+      "Unadu",
+      "Ohebe",
+      "Ovoko",
+      "Itchi"
+     ]
+    },
+    {
+     "name": "Isi Uzo",
+     "areas": [
+      "Ikem",
+      "Neke",
+      "Eha-Amufu",
+      "Umuitodo",
+      "Mbu"
+     ]
+    },
+    {
+     "name": "Nkanu East",
+     "areas": [
+      "Amagunze",
+      "Mpu",
+      "Ugwuogo Nike",
+      "Akpugo"
+     ]
+    },
+    {
+     "name": "Nkanu West",
+     "areas": [
+      "Agbani",
+      "Akpugo",
+      "Nara",
+      "Ozalla",
+      "Amechi Uwani"
+     ]
+    },
+    {
+     "name": "Nsukka",
+     "areas": [
+      "Nsukka Town",
+      "Edem",
+      "Obukpa",
+      "Alor-Uno",
+      "Ibagwa Ani",
+      "Opi"
+     ]
+    },
+    {
+     "name": "Oji River",
+     "areas": [
+      "Oji River Town",
+      "Inyi",
+      "Achi",
+      "Awlaw",
+      "Ugwuoba"
+     ]
+    },
+    {
+     "name": "Udenu",
+     "areas": [
+      "Obollo-Afor",
+      "Orba",
+      "Ezimo",
+      "Imilike",
+      "Opanda"
+     ]
+    },
+    {
+     "name": "Udi",
+     "areas": [
+      "Udi Town",
+      "Abor",
+      "Ukana",
+      "Affa",
+      "Nachi",
+      "Ozalla"
+     ]
+    },
+    {
+     "name": "Uzo Uwani",
+     "areas": [
+      "Adani",
+      "Ogurugu",
+      "Opanda",
+      "Ojor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Federal Capital Territory",
+   "capital": "Abuja",
+   "lgas": [
+    {
+     "name": "Abaji",
+     "areas": [
+      "Abaji Town",
+      "Gurdi",
+      "Yaba",
+      "Rimba Ebagi",
+      "Agyana"
+     ]
+    },
+    {
+     "name": "Abuja Municipal Area Council",
+     "areas": [
+      "Maitama",
+      "Wuse",
+      "Wuse 2",
+      "Garki",
+      "Asokoro",
+      "Jabi",
+      "Utako",
+      "Gwarinpa",
+      "Central Business District",
+      "Wuye",
+      "Life Camp",
+      "Jahi",
+      "Katampe",
+      "Gaduwa",
+      "Durumi",
+      "Kado",
+      "Mabushi",
+      "Dutse Alhaji",
+      "Lugbe",
+      "Karmo",
+      "Apo",
+      "Gudu"
+     ]
+    },
+    {
+     "name": "Bwari",
+     "areas": [
+      "Bwari Town",
+      "Ushafa",
+      "Kubwa",
+      "Dutse Bwari",
+      "Byazhin",
+      "Mpape",
+      "Dei-Dei",
+      "Kuduru",
+      "Igu",
+      "Zuma"
+     ]
+    },
+    {
+     "name": "Gwagwalada",
+     "areas": [
+      "Gwagwalada Town",
+      "Dobi",
+      "Zuba",
+      "Ibwa",
+      "Paiko",
+      "Tungan Maje",
+      "Kutunku"
+     ]
+    },
+    {
+     "name": "Kuje",
+     "areas": [
+      "Kuje Town",
+      "Gwargwada",
+      "Chibiri",
+      "Gaube",
+      "Kabi",
+      "Rubochi",
+      "Kujekwa"
+     ]
+    },
+    {
+     "name": "Kwali",
+     "areas": [
+      "Kwali Town",
+      "Yangoji",
+      "Kilankwa",
+      "Pandagi",
+      "Gwargwada Kwali",
+      "Ketti"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gombe",
+   "capital": "Gombe",
+   "lgas": [
+    {
+     "name": "Akko",
+     "areas": [
+      "Kumo",
+      "Akko Town",
+      "Pindiga",
+      "Kuri",
+      "Tukulma",
+      "Gombe Abba"
+     ]
+    },
+    {
+     "name": "Balanga",
+     "areas": [
+      "Talasse",
+      "Balanga Town",
+      "Swa",
+      "Bambam",
+      "Wala",
+      "Dadin Kowa"
+     ]
+    },
+    {
+     "name": "Billiri",
+     "areas": [
+      "Billiri Town",
+      "Tudu",
+      "Gwandum",
+      "Todi",
+      "Bangunji",
+      "Wuro Tale"
+     ]
+    },
+    {
+     "name": "Dukku",
+     "areas": [
+      "Dukku Town",
+      "Hashidu",
+      "Malam Sidi",
+      "Zange",
+      "Wuro Jam"
+     ]
+    },
+    {
+     "name": "Funakaye",
+     "areas": [
+      "Bajoga",
+      "Tongo",
+      "Jillahi",
+      "Kwarri",
+      "Dukul"
+     ]
+    },
+    {
+     "name": "Gombe",
+     "areas": [
+      "Gombe Town",
+      "Pantami",
+      "Bolari",
+      "Tudun Wada",
+      "Jekadafari",
+      "Nasarawo"
+     ]
+    },
+    {
+     "name": "Kaltungo",
+     "areas": [
+      "Kaltungo Town",
+      "Ayaba",
+      "Banganje",
+      "Kalmai",
+      "Tula"
+     ]
+    },
+    {
+     "name": "Kwami",
+     "areas": [
+      "Mallam Sidi",
+      "Kwami Town",
+      "Komfulata",
+      "Gadam"
+     ]
+    },
+    {
+     "name": "Nafada",
+     "areas": [
+      "Nafada Town",
+      "Birin Fulani",
+      "Barwo",
+      "Jigawa",
+      "Shabewa"
+     ]
+    },
+    {
+     "name": "Shongom",
+     "areas": [
+      "Boh",
+      "Shongom Town",
+      "Burak",
+      "Filiya",
+      "Lapan"
+     ]
+    },
+    {
+     "name": "Yamaltu/Deba",
+     "areas": [
+      "Deba",
+      "Zambuk",
+      "Difa",
+      "Wade",
+      "Shinga",
+      "Yamaltu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Imo",
+   "capital": "Owerri",
+   "lgas": [
+    {
+     "name": "Aboh Mbaise",
+     "areas": [
+      "Afor Enyiogugu",
+      "Aboh",
+      "Oboama",
+      "Nguru",
+      "Umuagwo"
+     ]
+    },
+    {
+     "name": "Ahiazu Mbaise",
+     "areas": [
+      "Oru Ahiara",
+      "Ahiara",
+      "Obizi",
+      "Uvuru",
+      "Itu"
+     ]
+    },
+    {
+     "name": "Ehime Mbano",
+     "areas": [
+      "Ife",
+      "Umuezeala",
+      "Umuagwu",
+      "Ehime Town"
+     ]
+    },
+    {
+     "name": "Ezinihitte",
+     "areas": [
+      "Mbaise",
+      "Nwekeukwu",
+      "Amakohia Mbaise",
+      "Onicha",
+      "Oparanadim"
+     ]
+    },
+    {
+     "name": "Ideato North",
+     "areas": [
+      "Ubahu",
+      "Isiekenesi",
+      "Amanze",
+      "Okwudor",
+      "Aboh Ideato"
+     ]
+    },
+    {
+     "name": "Ideato South",
+     "areas": [
+      "Dikenafai",
+      "Umuhu",
+      "Ezinifite Ideato",
+      "Isiala",
+      "Ihitte"
+     ]
+    },
+    {
+     "name": "Ihitte/Uboma",
+     "areas": [
+      "Isinweke",
+      "Lagwa",
+      "Amaigbo",
+      "Amucha",
+      "Ihitte Town"
+     ]
+    },
+    {
+     "name": "Ikeduru",
+     "areas": [
+      "Iho",
+      "Atta",
+      "Amaimo",
+      "Avu",
+      "Ugirike"
+     ]
+    },
+    {
+     "name": "Isiala Mbano",
+     "areas": [
+      "Umuelemai",
+      "Uvuru Mbano",
+      "Ezinachi",
+      "Amuzi",
+      "Ogwa"
+     ]
+    },
+    {
+     "name": "Isu",
+     "areas": [
+      "Umundugba",
+      "Umuowa",
+      "Isu Town",
+      "Ihe",
+      "Okwuohia"
+     ]
+    },
+    {
+     "name": "Mbaitoli",
+     "areas": [
+      "Nwaorieubi",
+      "Umuoma",
+      "Eziama",
+      "Ife Mbaitoli",
+      "Oruoma"
+     ]
+    },
+    {
+     "name": "Ngor Okpala",
+     "areas": [
+      "Umuneke",
+      "Ihitte Ngor",
+      "Ngor Town",
+      "Okpala",
+      "Abacheke"
+     ]
+    },
+    {
+     "name": "Njaba",
+     "areas": [
+      "Nnenasa",
+      "Okwelle",
+      "Amaraku",
+      "Umunumo",
+      "Nkwogwu"
+     ]
+    },
+    {
+     "name": "Nkwerre",
+     "areas": [
+      "Nkwerre Town",
+      "Ihitte Nkwerre",
+      "Oparanadim",
+      "Obiofor",
+      "Okwe"
+     ]
+    },
+    {
+     "name": "Nwangele",
+     "areas": [
+      "Amaigbo",
+      "Nwangele Town",
+      "Umunumo",
+      "Ihitte Nwangele",
+      "Nkume"
+     ]
+    },
+    {
+     "name": "Obowo",
+     "areas": [
+      "Obowo Town",
+      "Okwe",
+      "Umuariam",
+      "Ihitte",
+      "Okwelle"
+     ]
+    },
+    {
+     "name": "Oguta",
+     "areas": [
+      "Oguta Town",
+      "Nkwesi",
+      "Awo-Omamma",
+      "Egbema",
+      "Izombe"
+     ]
+    },
+    {
+     "name": "Ohaji/Egbema",
+     "areas": [
+      "Awarra",
+      "Ohaji Town",
+      "Egbema Town",
+      "Obiakpu",
+      "Umuapu",
+      "Mmahu"
+     ]
+    },
+    {
+     "name": "Okigwe",
+     "areas": [
+      "Okigwe Town",
+      "Okwe",
+      "Ihube",
+      "Umuowa",
+      "Obinze",
+      "Amaokwe"
+     ]
+    },
+    {
+     "name": "Orlu",
+     "areas": [
+      "Orlu Town",
+      "Umuna",
+      "Ihioma",
+      "Amaifeke",
+      "Eziama",
+      "Umudioka"
+     ]
+    },
+    {
+     "name": "Orsu",
+     "areas": [
+      "Awo-Idemili",
+      "Orsu Town",
+      "Ihitte",
+      "Umuoma"
+     ]
+    },
+    {
+     "name": "Oru East",
+     "areas": [
+      "Awo-Omamma",
+      "Mgbee",
+      "Omuma",
+      "Akatta"
+     ]
+    },
+    {
+     "name": "Oru West",
+     "areas": [
+      "Okwelle",
+      "Umuawuchi",
+      "Ogbaku",
+      "Oru Town"
+     ]
+    },
+    {
+     "name": "Owerri Municipal",
+     "areas": [
+      "Owerri Town",
+      "Ikenegbu",
+      "Aladinma",
+      "World Bank",
+      "Douglas",
+      "Ama Ogbonna"
+     ]
+    },
+    {
+     "name": "Owerri North",
+     "areas": [
+      "Orie Uratta",
+      "Emekuku",
+      "Ulakwo",
+      "Egbu",
+      "Naze",
+      "Umuguma"
+     ]
+    },
+    {
+     "name": "Owerri West",
+     "areas": [
+      "Umuguma",
+      "Ihiagwa",
+      "Obinze",
+      "Nekede",
+      "Eziobodo",
+      "Ohii"
+     ]
+    },
+    {
+     "name": "Unuimo",
+     "areas": [
+      "Okwe",
+      "Ihitte Unuimo",
+      "Umuaka",
+      "Ubahu",
+      "Unuimo Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jigawa",
+   "capital": "Dutse",
+   "lgas": [
+    {
+     "name": "Auyo",
+     "areas": [
+      "Auyo Town",
+      "Ayan",
+      "Gamsarka",
+      "Tsidir",
+      "Unik"
+     ]
+    },
+    {
+     "name": "Babura",
+     "areas": [
+      "Babura Town",
+      "Kanya",
+      "Garu",
+      "Gasakoli",
+      "Maiyanka"
+     ]
+    },
+    {
+     "name": "Biriniwa",
+     "areas": [
+      "Biriniwa Town",
+      "Kafin Gana",
+      "Garun Gabas",
+      "Matamu",
+      "Rafin Tsiga"
+     ]
+    },
+    {
+     "name": "Birnin Kudu",
+     "areas": [
+      "Birnin Kudu Town",
+      "Kantoga",
+      "Kiyayya",
+      "Gantsa",
+      "Fandum"
+     ]
+    },
+    {
+     "name": "Buji",
+     "areas": [
+      "Buji Town",
+      "Kiyayya",
+      "Dantsoho",
+      "Yalwawa",
+      "Kwaya"
+     ]
+    },
+    {
+     "name": "Dutse",
+     "areas": [
+      "Dutse Town",
+      "Limawa",
+      "Takur",
+      "Kudai",
+      "Fagoji",
+      "Jigawar Tsada"
+     ]
+    },
+    {
+     "name": "Gagarawa",
+     "areas": [
+      "Gagarawa Town",
+      "Garko",
+      "Gantsa",
+      "Kafin Gana"
+     ]
+    },
+    {
+     "name": "Garki",
+     "areas": [
+      "Garki Town",
+      "Bargari",
+      "Dundubus"
+     ]
+    },
+    {
+     "name": "Gumel",
+     "areas": [
+      "Gumel Town",
+      "Rimin Kebe",
+      "Kwango",
+      "Isma"
+     ]
+    },
+    {
+     "name": "Guri",
+     "areas": [
+      "Guri Town",
+      "Matarar",
+      "Tsakuwa",
+      "Kafin Hausa",
+      "Garin Dogo"
+     ]
+    },
+    {
+     "name": "Gwaram",
+     "areas": [
+      "Gwaram Town",
+      "Basirka",
+      "Kanya",
+      "Dumus",
+      "Shuwarin"
+     ]
+    },
+    {
+     "name": "Gwiwa",
+     "areas": [
+      "Gwiwa Town",
+      "Yalleman",
+      "Dugwai",
+      "Kwaya Gwiwa"
+     ]
+    },
+    {
+     "name": "Hadejia",
+     "areas": [
+      "Hadejia Town",
+      "Atafi",
+      "Matsango",
+      "Dubantu",
+      "Majema"
+     ]
+    },
+    {
+     "name": "Jahun",
+     "areas": [
+      "Jahun Town",
+      "Kanya",
+      "Gantsa Jahun",
+      "Dundubus"
+     ]
+    },
+    {
+     "name": "Kafin Hausa",
+     "areas": [
+      "Kafin Hausa Town",
+      "Kanya",
+      "Dundubus",
+      "Gari Dogo",
+      "Tsakuwa"
+     ]
+    },
+    {
+     "name": "Kaugama",
+     "areas": [
+      "Kaugama Town",
+      "Kafin Gana",
+      "Rinjin Kebe",
+      "Dudu"
+     ]
+    },
+    {
+     "name": "Kazaure",
+     "areas": [
+      "Kazaure Town",
+      "Zango",
+      "Gada"
+     ]
+    },
+    {
+     "name": "Kiri Kasama",
+     "areas": [
+      "Kiri Kasama Town",
+      "Katangi",
+      "Yalleman",
+      "Kafin Gana",
+      "Garun Gabas"
+     ]
+    },
+    {
+     "name": "Kiyawa",
+     "areas": [
+      "Kiyawa Town",
+      "Katanga",
+      "Gwarzo Kiyawa",
+      "Yalo",
+      "Fandum Kiyawa"
+     ]
+    },
+    {
+     "name": "Maigatari",
+     "areas": [
+      "Maigatari Town",
+      "Dantsoho",
+      "Dundubus"
+     ]
+    },
+    {
+     "name": "Malam Madori",
+     "areas": [
+      "Malam Madori Town",
+      "Kafin Gana",
+      "Arewa",
+      "Tsakuwa"
+     ]
+    },
+    {
+     "name": "Miga",
+     "areas": [
+      "Miga Town",
+      "Kafin Gana",
+      "Dumus"
+     ]
+    },
+    {
+     "name": "Ringim",
+     "areas": [
+      "Ringim Town",
+      "Takur",
+      "Gantsa",
+      "Zaure"
+     ]
+    },
+    {
+     "name": "Roni",
+     "areas": [
+      "Roni Town",
+      "Gantsa Roni",
+      "Dundubus",
+      "Gamsarka"
+     ]
+    },
+    {
+     "name": "Sule Tankarkar",
+     "areas": [
+      "Sule Tankarkar Town",
+      "Dantsoho",
+      "Kafin Gana",
+      "Gamsarka",
+      "Shuwarin"
+     ]
+    },
+    {
+     "name": "Taura",
+     "areas": [
+      "Taura Town",
+      "Gwarzo",
+      "Dumus",
+      "Tsakuwa"
+     ]
+    },
+    {
+     "name": "Yankwashi",
+     "areas": [
+      "Yankwashi Town",
+      "Gamsarka",
+      "Dundubus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kaduna",
+   "capital": "Kaduna",
+   "lgas": [
+    {
+     "name": "Birnin Gwari",
+     "areas": [
+      "Birnin Gwari Town",
+      "Saulawa",
+      "Randagi",
+      "Kakangi",
+      "Gwaska"
+     ]
+    },
+    {
+     "name": "Chikun",
+     "areas": [
+      "Kujama",
+      "Narayi",
+      "Sabon Tasha",
+      "Barnawa",
+      "Rido",
+      "Romi"
+     ]
+    },
+    {
+     "name": "Giwa",
+     "areas": [
+      "Giwa Town",
+      "Danmahawayi",
+      "Yakawada",
+      "Shika",
+      "Gangara"
+     ]
+    },
+    {
+     "name": "Igabi",
+     "areas": [
+      "Rigachikun",
+      "Turunku",
+      "Kwarau",
+      "Rigasa",
+      "Kakau",
+      "Birnin Yero"
+     ]
+    },
+    {
+     "name": "Ikara",
+     "areas": [
+      "Ikara Town",
+      "Paki",
+      "Kurmin Kogi",
+      "Saulawa",
+      "Janruwa"
+     ]
+    },
+    {
+     "name": "Jaba",
+     "areas": [
+      "Kwoi",
+      "Kwoi Town",
+      "Ankpa",
+      "Nok",
+      "Fada"
+     ]
+    },
+    {
+     "name": "Jema'a",
+     "areas": [
+      "Kafanchan",
+      "Jagindi",
+      "Sabon Gari Kafanchan",
+      "Kagoma"
+     ]
+    },
+    {
+     "name": "Kachia",
+     "areas": [
+      "Kachia Town",
+      "Katari",
+      "Gumel",
+      "Kurmin Musa"
+     ]
+    },
+    {
+     "name": "Kaduna North",
+     "areas": [
+      "Kaduna Central",
+      "Kawo",
+      "Unguwar Rimi",
+      "Unguwar Sarki",
+      "Malali"
+     ]
+    },
+    {
+     "name": "Kaduna South",
+     "areas": [
+      "Barnawa",
+      "Television",
+      "Sabon Gari Kaduna",
+      "Badarawa",
+      "Kakuri",
+      "Makera"
+     ]
+    },
+    {
+     "name": "Kagarko",
+     "areas": [
+      "Kagarko Town",
+      "Jere",
+      "Kushe",
+      "Katugal",
+      "Dutsen Gaiya"
+     ]
+    },
+    {
+     "name": "Kajuru",
+     "areas": [
+      "Kajuru Town",
+      "Idon",
+      "Kufana",
+      "Buruku",
+      "Rimau"
+     ]
+    },
+    {
+     "name": "Kaura",
+     "areas": [
+      "Kaura Town",
+      "Bondon",
+      "Zonkwa"
+     ]
+    },
+    {
+     "name": "Kauru",
+     "areas": [
+      "Kauru Town",
+      "Kwasa",
+      "Pambeguwa",
+      "Kwoi Kauru",
+      "Kpaki"
+     ]
+    },
+    {
+     "name": "Kubau",
+     "areas": [
+      "Anchau",
+      "Kubau Town",
+      "Dutsen Wai",
+      "Pambegua",
+      "Kwara"
+     ]
+    },
+    {
+     "name": "Kudan",
+     "areas": [
+      "Hunkuyi",
+      "Kudan Town",
+      "Doka",
+      "Zakari",
+      "Kurmin Gandu"
+     ]
+    },
+    {
+     "name": "Lere",
+     "areas": [
+      "Lere Town",
+      "Saminaka",
+      "Kwasau",
+      "Ribi",
+      "Garun Kurama"
+     ]
+    },
+    {
+     "name": "Makarfi",
+     "areas": [
+      "Makarfi Town",
+      "Gimi",
+      "Mallamawa",
+      "Yanbawa",
+      "Tashan Kudan"
+     ]
+    },
+    {
+     "name": "Sabon Gari",
+     "areas": [
+      "Sabon Gari Zaria",
+      "Basawa",
+      "Bomo",
+      "Dogarawa",
+      "Hanwa",
+      "Muchia"
+     ]
+    },
+    {
+     "name": "Sanga",
+     "areas": [
+      "Gwantu",
+      "Sanga Town",
+      "Fadan Kamantan",
+      "Kallah"
+     ]
+    },
+    {
+     "name": "Soba",
+     "areas": [
+      "Maigana",
+      "Soba Town",
+      "Garu",
+      "Dan Gamsu",
+      "Kofar Gayan"
+     ]
+    },
+    {
+     "name": "Zangon Kataf",
+     "areas": [
+      "Zonkwa",
+      "Zangon Kataf Town",
+      "Madakiya",
+      "Kurmin Masara"
+     ]
+    },
+    {
+     "name": "Zaria",
+     "areas": [
+      "Zaria City",
+      "Tudun Wada",
+      "Samaru",
+      "Kofar Gayan",
+      "Zaria Old City"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kano",
+   "capital": "Kano",
+   "lgas": [
+    {
+     "name": "Ajingi",
+     "areas": [
+      "Ajingi Town",
+      "Gamawa",
+      "Gafasa",
+      "Kachako",
+      "Unguwar Kudu"
+     ]
+    },
+    {
+     "name": "Albasu",
+     "areas": [
+      "Albasu Town",
+      "Gara",
+      "Kafin Agur",
+      "Fajewa",
+      "Yanbarau"
+     ]
+    },
+    {
+     "name": "Bagwai",
+     "areas": [
+      "Bagwai Town",
+      "Kafin Agur",
+      "Wuro Bagga",
+      "Danwawu",
+      "Kiyawa Bagwai"
+     ]
+    },
+    {
+     "name": "Bebeji",
+     "areas": [
+      "Bebeji Town",
+      "Kofa",
+      "Sarina",
+      "Challawa",
+      "Kuki"
+     ]
+    },
+    {
+     "name": "Bichi",
+     "areas": [
+      "Bichi Town",
+      "Danyaya",
+      "Matan Fada",
+      "Yalwa",
+      "Kwazarazaa"
+     ]
+    },
+    {
+     "name": "Bunkure",
+     "areas": [
+      "Bunkure Town",
+      "Kanwa",
+      "Gafan",
+      "Barde"
+     ]
+    },
+    {
+     "name": "Dala",
+     "areas": [
+      "Dala Hill",
+      "Gobirawa",
+      "Kofar Mazugal",
+      "Yalwa Dala",
+      "Gwauron Dutse"
+     ]
+    },
+    {
+     "name": "Dambatta",
+     "areas": [
+      "Dambatta Town",
+      "Gandun Albasa",
+      "Ruwan Doruwa",
+      "Zango",
+      "Kwarkwaro"
+     ]
+    },
+    {
+     "name": "Dawakin Kudu",
+     "areas": [
+      "Dawakin Kudu Town",
+      "Kwalli",
+      "Kuka",
+      "Tsakuwa",
+      "Zogarawa"
+     ]
+    },
+    {
+     "name": "Dawakin Tofa",
+     "areas": [
+      "Dawakin Tofa Town",
+      "Tomas",
+      "Kwanyawa",
+      "Dan Mari",
+      "Jar Kuka"
+     ]
+    },
+    {
+     "name": "Doguwa",
+     "areas": [
+      "Doguwa Town",
+      "Tiga",
+      "Riruwai",
+      "Kantudu",
+      "Kachi"
+     ]
+    },
+    {
+     "name": "Fagge",
+     "areas": [
+      "Fagge Town",
+      "Sabon Gari",
+      "Kwari Market",
+      "Fagge Ta Kudu",
+      "Gyadi-Gyadi"
+     ]
+    },
+    {
+     "name": "Gabasawa",
+     "areas": [
+      "Gabasawa Town",
+      "Zaura",
+      "Garun Gabas",
+      "Dabi",
+      "Kwanyawa"
+     ]
+    },
+    {
+     "name": "Garko",
+     "areas": [
+      "Garko Town",
+      "Gurjiya",
+      "Sarari",
+      "Zogarawa",
+      "Gazobi"
+     ]
+    },
+    {
+     "name": "Garun Mallam",
+     "areas": [
+      "Garun Mallam Town",
+      "Kadawa",
+      "Gangare",
+      "Yantaba",
+      "Dungu"
+     ]
+    },
+    {
+     "name": "Gaya",
+     "areas": [
+      "Gaya Town",
+      "Gamoji",
+      "Maimakawa",
+      "Kanwa"
+     ]
+    },
+    {
+     "name": "Gezawa",
+     "areas": [
+      "Gezawa Town",
+      "Jogana",
+      "Kazaure",
+      "Yan Kaba"
+     ]
+    },
+    {
+     "name": "Gwale",
+     "areas": [
+      "Gwale Town",
+      "Dorayi",
+      "Kabuga",
+      "Lungu",
+      "Tudun Murtala"
+     ]
+    },
+    {
+     "name": "Gwarzo",
+     "areas": [
+      "Gwarzo Town",
+      "Kadawa",
+      "Jibawa",
+      "Kwarkwaro",
+      "Sararin Gabas"
+     ]
+    },
+    {
+     "name": "Kabo",
+     "areas": [
+      "Kabo Town",
+      "Kwarkiya",
+      "Gadar",
+      "Dugurawa",
+      "Fanda"
+     ]
+    },
+    {
+     "name": "Kano Municipal",
+     "areas": [
+      "Kano City",
+      "Kofar Mata",
+      "Kofar Nasarawa",
+      "Sabuwar Gandu",
+      "Gwammaja",
+      "Hausawa"
+     ]
+    },
+    {
+     "name": "Karaye",
+     "areas": [
+      "Karaye Town",
+      "Gwarmai",
+      "Kafin Dafga",
+      "Turawa"
+     ]
+    },
+    {
+     "name": "Kibiya",
+     "areas": [
+      "Kibiya Town",
+      "Tarai",
+      "Kwana",
+      "Gwagwayi",
+      "Fumbaina"
+     ]
+    },
+    {
+     "name": "Kiru",
+     "areas": [
+      "Kiru Town",
+      "Dutsen Tanshi",
+      "Maraku",
+      "Tsamiya"
+     ]
+    },
+    {
+     "name": "Kumbotso",
+     "areas": [
+      "Kumbotso Town",
+      "Challawa",
+      "Panshekara",
+      "Na'ibawa",
+      "Dan Maliki",
+      "Kureken Sani"
+     ]
+    },
+    {
+     "name": "Kunchi",
+     "areas": [
+      "Kunchi Town",
+      "Wuro Tarpa",
+      "Kwarin Kwarya"
+     ]
+    },
+    {
+     "name": "Kura",
+     "areas": [
+      "Kura Town",
+      "Kadawa",
+      "Karfi",
+      "Tudun Kwari"
+     ]
+    },
+    {
+     "name": "Madobi",
+     "areas": [
+      "Madobi Town",
+      "Kafin Ciyawa",
+      "Tashar Yari",
+      "Dan Barde",
+      "Rimin Zakara"
+     ]
+    },
+    {
+     "name": "Makoda",
+     "areas": [
+      "Makoda Town",
+      "Dutsen Tanshi",
+      "Chiromawa",
+      "Tsakuwa"
+     ]
+    },
+    {
+     "name": "Minjibir",
+     "areas": [
+      "Minjibir Town",
+      "Gandun Albasa",
+      "Tsamiya",
+      "Nasarawa Minjibir"
+     ]
+    },
+    {
+     "name": "Nasarawa",
+     "areas": [
+      "Nasarawa Town",
+      "Hotoro",
+      "Gama",
+      "Tudun Murtala",
+      "Dan Agundi",
+      "Yan Dalla"
+     ]
+    },
+    {
+     "name": "Rano",
+     "areas": [
+      "Rano Town",
+      "Zinyau",
+      "Tashar Kuka",
+      "Dundubus"
+     ]
+    },
+    {
+     "name": "Rimin Gado",
+     "areas": [
+      "Rimin Gado Town",
+      "Dan Rimi",
+      "Sarina"
+     ]
+    },
+    {
+     "name": "Rogo",
+     "areas": [
+      "Rogo Town",
+      "Chiromawa",
+      "Falgore",
+      "Kanwa",
+      "Tsohuwar Rogo"
+     ]
+    },
+    {
+     "name": "Shanono",
+     "areas": [
+      "Shanono Town",
+      "Kwarkiya",
+      "Dugoru",
+      "Tsange"
+     ]
+    },
+    {
+     "name": "Sumaila",
+     "areas": [
+      "Sumaila Town",
+      "Rimin Sumaila",
+      "Dangwauro",
+      "Dandago",
+      "Gala"
+     ]
+    },
+    {
+     "name": "Takai",
+     "areas": [
+      "Takai Town",
+      "Kwarin Takai",
+      "Yarimawa"
+     ]
+    },
+    {
+     "name": "Tarauni",
+     "areas": [
+      "Tarauni Town",
+      "Kurna",
+      "Gyadi-Gyadi",
+      "Sharada",
+      "Hotoro South",
+      "Ja'en"
+     ]
+    },
+    {
+     "name": "Tofa",
+     "areas": [
+      "Tofa Town",
+      "Gandun Albasa",
+      "Jama'a"
+     ]
+    },
+    {
+     "name": "Tsanyawa",
+     "areas": [
+      "Tsanyawa Town",
+      "Gadar Gaya",
+      "Dan Tsayi"
+     ]
+    },
+    {
+     "name": "Tudun Wada",
+     "areas": [
+      "Tudun Wada Town",
+      "Burum Burum",
+      "Karefa",
+      "Gwazaye"
+     ]
+    },
+    {
+     "name": "Ungogo",
+     "areas": [
+      "Ungogo Town",
+      "Rijiyar Zaki",
+      "Panisau",
+      "Gama Ungogo"
+     ]
+    },
+    {
+     "name": "Warawa",
+     "areas": [
+      "Warawa Town",
+      "Danlasan",
+      "Imawa",
+      "Dan Kunama",
+      "Ladduwa"
+     ]
+    },
+    {
+     "name": "Wudil",
+     "areas": [
+      "Wudil Town",
+      "Indabo",
+      "Kwarin Wudil"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Katsina",
+   "capital": "Katsina",
+   "lgas": [
+    {
+     "name": "Bakori",
+     "areas": [
+      "Bakori Town",
+      "Dabai",
+      "Kurami",
+      "Tsiga",
+      "Jarkuka"
+     ]
+    },
+    {
+     "name": "Batagarawa",
+     "areas": [
+      "Batagarawa Town",
+      "Kuka",
+      "Yargoje",
+      "Dankama",
+      "Dawan Musa"
+     ]
+    },
+    {
+     "name": "Batsari",
+     "areas": [
+      "Batsari Town",
+      "Gora",
+      "Yar Gamji",
+      "Dauran",
+      "Zakka"
+     ]
+    },
+    {
+     "name": "Baure",
+     "areas": [
+      "Baure Town",
+      "Dankama",
+      "Dumurkul",
+      "Sayaya",
+      "Garu"
+     ]
+    },
+    {
+     "name": "Bindawa",
+     "areas": [
+      "Bindawa Town",
+      "Gafiya",
+      "Kuka",
+      "Kuru"
+     ]
+    },
+    {
+     "name": "Charanchi",
+     "areas": [
+      "Charanchi Town",
+      "Kuka",
+      "Ketare"
+     ]
+    },
+    {
+     "name": "Dandume",
+     "areas": [
+      "Dandume Town",
+      "Dabawa",
+      "Gwarzo",
+      "Kanya"
+     ]
+    },
+    {
+     "name": "Danja",
+     "areas": [
+      "Danja Town",
+      "Kanya"
+     ]
+    },
+    {
+     "name": "Dan Musa",
+     "areas": [
+      "Dan Musa Town",
+      "Yantumaki",
+      "Kuka",
+      "Yarkwaita"
+     ]
+    },
+    {
+     "name": "Daura",
+     "areas": [
+      "Daura Town",
+      "Gafiya"
+     ]
+    },
+    {
+     "name": "Dutsi",
+     "areas": [
+      "Dutsi Town",
+      "Yarkwaita",
+      "Wagini Kuka"
+     ]
+    },
+    {
+     "name": "Dutsin-Ma",
+     "areas": [
+      "Dutsin-Ma Town",
+      "Kanya"
+     ]
+    },
+    {
+     "name": "Faskari",
+     "areas": [
+      "Faskari Town",
+      "Yankara",
+      "Mairuwa"
+     ]
+    },
+    {
+     "name": "Funtua",
+     "areas": [
+      "Funtua Town",
+      "Maigamji"
+     ]
+    },
+    {
+     "name": "Ingawa",
+     "areas": [
+      "Ingawa Town",
+      "Tsiga"
+     ]
+    },
+    {
+     "name": "Jibia",
+     "areas": [
+      "Jibia Town",
+      "Dankoli"
+     ]
+    },
+    {
+     "name": "Kafur",
+     "areas": [
+      "Kafur Town",
+      "Dabawa",
+      "Maigamji",
+      "Kanya Kafur"
+     ]
+    },
+    {
+     "name": "Kaita",
+     "areas": [
+      "Kaita Town",
+      "Zango"
+     ]
+    },
+    {
+     "name": "Kankara",
+     "areas": [
+      "Kankara Town",
+      "Gora"
+     ]
+    },
+    {
+     "name": "Kankia",
+     "areas": [
+      "Kankia Town",
+      "Tsiga"
+     ]
+    },
+    {
+     "name": "Katsina",
+     "areas": [
+      "Katsina City",
+      "Kofar Kaura",
+      "Kofar Marusa",
+      "Kofar Durbi",
+      "Sabuwar Unguwa",
+      "Kofar Guga"
+     ]
+    },
+    {
+     "name": "Kurfi",
+     "areas": [
+      "Kurfi Town"
+     ]
+    },
+    {
+     "name": "Kusada",
+     "areas": [
+      "Kusada Town",
+      "Zango"
+     ]
+    },
+    {
+     "name": "Mai'Adua",
+     "areas": [
+      "Mai'Adua Town",
+      "Dumurkul"
+     ]
+    },
+    {
+     "name": "Malumfashi",
+     "areas": [
+      "Malumfashi Town",
+      "Kanya Malumfashi"
+     ]
+    },
+    {
+     "name": "Mani",
+     "areas": [
+      "Mani Town"
+     ]
+    },
+    {
+     "name": "Mashi",
+     "areas": [
+      "Mashi Town",
+      "Dumurkul"
+     ]
+    },
+    {
+     "name": "Matazu",
+     "areas": [
+      "Matazu Town"
+     ]
+    },
+    {
+     "name": "Musawa",
+     "areas": [
+      "Musawa Town",
+      "Kanya Musawa"
+     ]
+    },
+    {
+     "name": "Rimi",
+     "areas": [
+      "Rimi Town"
+     ]
+    },
+    {
+     "name": "Sabuwa",
+     "areas": [
+      "Sabuwa Town"
+     ]
+    },
+    {
+     "name": "Safana",
+     "areas": [
+      "Safana Town"
+     ]
+    },
+    {
+     "name": "Sandamu",
+     "areas": [
+      "Sandamu Town"
+     ]
+    },
+    {
+     "name": "Zango",
+     "areas": [
+      "Zango Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kebbi",
+   "capital": "Birnin Kebbi",
+   "lgas": [
+    {
+     "name": "Aleiro",
+     "areas": [
+      "Aleiro Town"
+     ]
+    },
+    {
+     "name": "Arewa Dandi",
+     "areas": [
+      "Kangiwa",
+      "Arewa Dandi Town"
+     ]
+    },
+    {
+     "name": "Argungu",
+     "areas": [
+      "Argungu Town",
+      "Gwadangaji",
+      "Sauwa",
+      "Kokani",
+      "Gulma"
+     ]
+    },
+    {
+     "name": "Augie",
+     "areas": [
+      "Augie Town"
+     ]
+    },
+    {
+     "name": "Bagudo",
+     "areas": [
+      "Bagudo Town",
+      "Kaoje",
+      "Kamba",
+      "Dole",
+      "Mashekari"
+     ]
+    },
+    {
+     "name": "Birnin Kebbi",
+     "areas": [
+      "Birnin Kebbi Town",
+      "Gwadangaji",
+      "Nassarawa",
+      "Makera",
+      "Zauro"
+     ]
+    },
+    {
+     "name": "Bunza",
+     "areas": [
+      "Bunza Town"
+     ]
+    },
+    {
+     "name": "Dandi",
+     "areas": [
+      "Kamba",
+      "Dandi Town"
+     ]
+    },
+    {
+     "name": "Fakai",
+     "areas": [
+      "Fakai Town",
+      "Ribah"
+     ]
+    },
+    {
+     "name": "Gwandu",
+     "areas": [
+      "Gwandu Town"
+     ]
+    },
+    {
+     "name": "Jega",
+     "areas": [
+      "Jega Town"
+     ]
+    },
+    {
+     "name": "Kalgo",
+     "areas": [
+      "Kalgo Town"
+     ]
+    },
+    {
+     "name": "Koko/Besse",
+     "areas": [
+      "Koko Town",
+      "Besse Town"
+     ]
+    },
+    {
+     "name": "Maiyama",
+     "areas": [
+      "Maiyama Town"
+     ]
+    },
+    {
+     "name": "Ngaski",
+     "areas": [
+      "Warrah",
+      "Ngaski Town",
+      "Wara"
+     ]
+    },
+    {
+     "name": "Sakaba",
+     "areas": [
+      "Sakaba Town"
+     ]
+    },
+    {
+     "name": "Shanga",
+     "areas": [
+      "Shanga Town",
+      "Wara"
+     ]
+    },
+    {
+     "name": "Suru",
+     "areas": [
+      "Dakingari",
+      "Suru Town"
+     ]
+    },
+    {
+     "name": "Wasagu/Danko",
+     "areas": [
+      "Danko",
+      "Wasagu",
+      "Ribah"
+     ]
+    },
+    {
+     "name": "Yauri",
+     "areas": [
+      "Yauri Town"
+     ]
+    },
+    {
+     "name": "Zuru",
+     "areas": [
+      "Zuru Town",
+      "Dabai"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kogi",
+   "capital": "Lokoja",
+   "lgas": [
+    {
+     "name": "Adavi",
+     "areas": [
+      "Ogaminana",
+      "Eika",
+      "Adavi Town",
+      "Obangede"
+     ]
+    },
+    {
+     "name": "Ajaokuta",
+     "areas": [
+      "Ajaokuta Town",
+      "Ganaja",
+      "Itakpe",
+      "Ugwolawo"
+     ]
+    },
+    {
+     "name": "Ankpa",
+     "areas": [
+      "Ankpa Town",
+      "Ojoku",
+      "Ogbogbo",
+      "Ichala",
+      "Enjema"
+     ]
+    },
+    {
+     "name": "Bassa",
+     "areas": [
+      "Bassa Town",
+      "Abejukolo",
+      "Iyale"
+     ]
+    },
+    {
+     "name": "Dekina",
+     "areas": [
+      "Dekina Town",
+      "Anyigba",
+      "Ofugo",
+      "Okura",
+      "Ojoku Dekina"
+     ]
+    },
+    {
+     "name": "Ibaji",
+     "areas": [
+      "Onyedega",
+      "Ibaji Town",
+      "Ejule",
+      "Ogbonyi"
+     ]
+    },
+    {
+     "name": "Idah",
+     "areas": [
+      "Idah Town",
+      "Oguma"
+     ]
+    },
+    {
+     "name": "Igalamela-Odolu",
+     "areas": [
+      "Ajaka",
+      "Odolu"
+     ]
+    },
+    {
+     "name": "Ijumu",
+     "areas": [
+      "Iyara",
+      "Ijumu Town",
+      "Ogidi",
+      "Aiyetoro Gbede"
+     ]
+    },
+    {
+     "name": "Kabba/Bunu",
+     "areas": [
+      "Kabba",
+      "Aiyetoro Kiri",
+      "Odo-Ere",
+      "Ogidi Kabba",
+      "Iyah"
+     ]
+    },
+    {
+     "name": "Kogi",
+     "areas": [
+      "Kogi Town",
+      "Koton Karfe",
+      "Gegu"
+     ]
+    },
+    {
+     "name": "Lokoja",
+     "areas": [
+      "Lokoja Town",
+      "Adankolo",
+      "Felele",
+      "Ganaja",
+      "Gadumo",
+      "Kabawa"
+     ]
+    },
+    {
+     "name": "Mopa-Muro",
+     "areas": [
+      "Mopa",
+      "Muro",
+      "Aiyetoro Mopa",
+      "Ogidi Mopa"
+     ]
+    },
+    {
+     "name": "Ofu",
+     "areas": [
+      "Ugwolawo",
+      "Ofu Town",
+      "Aiyetoro Ofu"
+     ]
+    },
+    {
+     "name": "Ogori/Magongo",
+     "areas": [
+      "Ogori",
+      "Magongo",
+      "Ogori Town"
+     ]
+    },
+    {
+     "name": "Okehi",
+     "areas": [
+      "Obehira",
+      "Okehi Town"
+     ]
+    },
+    {
+     "name": "Okene",
+     "areas": [
+      "Okene Town",
+      "Okengwe",
+      "Ageva",
+      "Obeiba"
+     ]
+    },
+    {
+     "name": "Olamaboro",
+     "areas": [
+      "Ugwolawo",
+      "Ife Olamaboro",
+      "Okpoga"
+     ]
+    },
+    {
+     "name": "Omala",
+     "areas": [
+      "Abejukolo",
+      "Omala Town"
+     ]
+    },
+    {
+     "name": "Yagba East",
+     "areas": [
+      "Isanlu",
+      "Egbe",
+      "Ogbom",
+      "Isanlu Isin",
+      "Odo Ere"
+     ]
+    },
+    {
+     "name": "Yagba West",
+     "areas": [
+      "Ejiba",
+      "Odo Ere",
+      "Ayetoro Yagba",
+      "Yagba West Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kwara",
+   "capital": "Ilorin",
+   "lgas": [
+    {
+     "name": "Asa",
+     "areas": [
+      "Afon",
+      "Asa Town",
+      "Ajanaku",
+      "Aboto"
+     ]
+    },
+    {
+     "name": "Baruten",
+     "areas": [
+      "Kosubosu",
+      "Gwanara",
+      "Okuta",
+      "Baruten Town",
+      "Yashikera"
+     ]
+    },
+    {
+     "name": "Edu",
+     "areas": [
+      "Lafiagi",
+      "Edu Town",
+      "Tsaragi",
+      "Gbugudu",
+      "Bokungi"
+     ]
+    },
+    {
+     "name": "Ekiti",
+     "areas": [
+      "Araromi Opin",
+      "Ekiti Town"
+     ]
+    },
+    {
+     "name": "Ifelodun",
+     "areas": [
+      "Share",
+      "Ifelodun Town",
+      "Oke-Ode",
+      "Ajase-Ipo"
+     ]
+    },
+    {
+     "name": "Ilorin East",
+     "areas": [
+      "Ilorin East Town",
+      "Oke-Oyi",
+      "Oke-Ose",
+      "Ita-Merin",
+      "Ogidi Ilorin"
+     ]
+    },
+    {
+     "name": "Ilorin South",
+     "areas": [
+      "Fufu",
+      "Ilorin South Town",
+      "Gaa Akanbi",
+      "Oloje",
+      "Gaa Imam"
+     ]
+    },
+    {
+     "name": "Ilorin West",
+     "areas": [
+      "Ilorin City",
+      "Oja Oba",
+      "Pakata",
+      "Oke Oyi",
+      "Sabo Oke",
+      "Taiwo Isale"
+     ]
+    },
+    {
+     "name": "Irepodun",
+     "areas": [
+      "Omu-Aran",
+      "Arandun",
+      "Oro",
+      "Esie",
+      "Igbaja"
+     ]
+    },
+    {
+     "name": "Isin",
+     "areas": [
+      "Owa-Onire",
+      "Isin Town",
+      "Oke-Onigbin"
+     ]
+    },
+    {
+     "name": "Kaiama",
+     "areas": [
+      "Kaiama Town",
+      "Kenu",
+      "Sii",
+      "Banni"
+     ]
+    },
+    {
+     "name": "Moro",
+     "areas": [
+      "Lanwa",
+      "Bode Saadu",
+      "Moro Town",
+      "Shao"
+     ]
+    },
+    {
+     "name": "Offa",
+     "areas": [
+      "Offa Town",
+      "Oko",
+      "Ojoku",
+      "Ikotun"
+     ]
+    },
+    {
+     "name": "Oke Ero",
+     "areas": [
+      "Ero Ekiti",
+      "Oke Ero Town",
+      "Ajase-Ipo",
+      "Ilofa"
+     ]
+    },
+    {
+     "name": "Oyun",
+     "areas": [
+      "Ilemona",
+      "Oyun Town",
+      "Ijagbo",
+      "Okerimi",
+      "Erin-Ile"
+     ]
+    },
+    {
+     "name": "Pategi",
+     "areas": [
+      "Pategi Town",
+      "Kpada",
+      "Tsaragi",
+      "Gbugudu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lagos",
+   "capital": "Ikeja",
+   "lgas": [
+    {
+     "name": "Agege",
+     "areas": [
+      "Agege Town",
+      "Oko Oba",
+      "Orile Agege",
+      "Pen Cinema",
+      "Dopemu",
+      "Isale Oja"
+     ]
+    },
+    {
+     "name": "Ajeromi-Ifelodun",
+     "areas": [
+      "Ajegunle",
+      "Olodi-Apapa",
+      "Tolu",
+      "Layeni",
+      "Alaba Rago",
+      "Boundary"
+     ]
+    },
+    {
+     "name": "Alimosho",
+     "areas": [
+      "Egbeda",
+      "Idimu",
+      "Ipaja",
+      "Ikotun",
+      "Igando",
+      "Akowonjo",
+      "Egbe",
+      "Shasha",
+      "Ayobo",
+      "Isheri-Olofin"
+     ]
+    },
+    {
+     "name": "Amuwo-Odofin",
+     "areas": [
+      "Festac Town",
+      "Mile 2",
+      "Amuwo",
+      "Satellite Town",
+      "Agboju",
+      "Abule Ado"
+     ]
+    },
+    {
+     "name": "Apapa",
+     "areas": [
+      "Apapa GRA",
+      "Ijora",
+      "Liverpool",
+      "Marine Beach",
+      "Tincan Island"
+     ]
+    },
+    {
+     "name": "Badagry",
+     "areas": [
+      "Badagry Town",
+      "Ajara",
+      "Iworo",
+      "Topo",
+      "Gbaji",
+      "Ajido"
+     ]
+    },
+    {
+     "name": "Epe",
+     "areas": [
+      "Epe Town",
+      "Ejinrin",
+      "Poka",
+      "Itoikin",
+      "Eredo",
+      "Noforija"
+     ]
+    },
+    {
+     "name": "Eti-Osa",
+     "areas": [
+      "Victoria Island",
+      "Lekki Phase 1",
+      "Ikoyi",
+      "Ajah",
+      "Oniru",
+      "Banana Island",
+      "Chevron"
+     ]
+    },
+    {
+     "name": "Ibeju-Lekki",
+     "areas": [
+      "Akodo",
+      "Orimedu",
+      "Eleko",
+      "Awoyaya",
+      "Lekki Free Trade Zone"
+     ]
+    },
+    {
+     "name": "Ifako-Ijaiye",
+     "areas": [
+      "Ifako",
+      "Agbado",
+      "Ogba",
+      "Ojokoro",
+      "Iju",
+      "Alagbado"
+     ]
+    },
+    {
+     "name": "Ikeja",
+     "areas": [
+      "Ikeja GRA",
+      "Allen Avenue",
+      "Alausa",
+      "Oregun",
+      "Opebi",
+      "Maryland"
+     ]
+    },
+    {
+     "name": "Ikorodu",
+     "areas": [
+      "Ikorodu Town",
+      "Igbogbo",
+      "Majidun",
+      "Ijede",
+      "Imota",
+      "Ita Elewa"
+     ]
+    },
+    {
+     "name": "Kosofe",
+     "areas": [
+      "Ketu",
+      "Ojota",
+      "Mile 12",
+      "Agboyi",
+      "Ogudu",
+      "Alapere"
+     ]
+    },
+    {
+     "name": "Lagos Island",
+     "areas": [
+      "Lagos Island",
+      "Idumota",
+      "Obalende",
+      "Isale Eko",
+      "Onikan"
+     ]
+    },
+    {
+     "name": "Lagos Mainland",
+     "areas": [
+      "Yaba",
+      "Ebute-Metta",
+      "Oyingbo",
+      "Iddo",
+      "Makoko"
+     ]
+    },
+    {
+     "name": "Mushin",
+     "areas": [
+      "Mushin Town",
+      "Idi-Araba",
+      "Ojuwoye",
+      "Papa Ajao",
+      "Olorunsogo",
+      "Itire"
+     ]
+    },
+    {
+     "name": "Ojo",
+     "areas": [
+      "Ojo Town",
+      "Okokomaiko",
+      "Iba",
+      "Igbede",
+      "Ijegun",
+      "Alaba International"
+     ]
+    },
+    {
+     "name": "Oshodi-Isolo",
+     "areas": [
+      "Oshodi",
+      "Isolo",
+      "Ejigbo",
+      "Okota",
+      "Mafoluku"
+     ]
+    },
+    {
+     "name": "Shomolu",
+     "areas": [
+      "Shomolu Town",
+      "Bariga",
+      "Gbagada",
+      "Palmgrove",
+      "Onipanu",
+      "Pedro"
+     ]
+    },
+    {
+     "name": "Surulere",
+     "areas": [
+      "Surulere Town",
+      "Aguda",
+      "Ijeshatedo",
+      "Itire",
+      "Ojuelegba",
+      "Lawanson",
+      "Ikate"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nasarawa",
+   "capital": "Lafia",
+   "lgas": [
+    {
+     "name": "Akwanga",
+     "areas": [
+      "Akwanga Town",
+      "Nunku",
+      "Gudi",
+      "Andaha"
+     ]
+    },
+    {
+     "name": "Awe",
+     "areas": [
+      "Awe Town",
+      "Azara",
+      "Tunga"
+     ]
+    },
+    {
+     "name": "Doma",
+     "areas": [
+      "Doma Town",
+      "Agwatashi",
+      "Akpanaja"
+     ]
+    },
+    {
+     "name": "Karu",
+     "areas": [
+      "Karu Town",
+      "Mararaba",
+      "Masaka",
+      "New Karu",
+      "Gitata",
+      "Uke"
+     ]
+    },
+    {
+     "name": "Keana",
+     "areas": [
+      "Keana Town"
+     ]
+    },
+    {
+     "name": "Keffi",
+     "areas": [
+      "Keffi Town",
+      "Angwan Lambu",
+      "Gishiri",
+      "Angwan Jaba"
+     ]
+    },
+    {
+     "name": "Kokona",
+     "areas": [
+      "Garaku",
+      "Kokona Town",
+      "Jenkwe",
+      "Gitata",
+      "Agyaragu"
+     ]
+    },
+    {
+     "name": "Lafia",
+     "areas": [
+      "Lafia Town",
+      "Shabu",
+      "Bukan Sidi",
+      "Wakwa",
+      "Lafia Central"
+     ]
+    },
+    {
+     "name": "Nasarawa",
+     "areas": [
+      "Nasarawa Town",
+      "Loko",
+      "Udege",
+      "Ungwan Ado"
+     ]
+    },
+    {
+     "name": "Nasarawa Egon",
+     "areas": [
+      "Nasarawa Egon Town"
+     ]
+    },
+    {
+     "name": "Obi",
+     "areas": [
+      "Obi Town",
+      "Gudi"
+     ]
+    },
+    {
+     "name": "Toto",
+     "areas": [
+      "Toto Town",
+      "Umaisha",
+      "Gadabuke"
+     ]
+    },
+    {
+     "name": "Wamba",
+     "areas": [
+      "Wamba Town",
+      "Arum"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Niger",
+   "capital": "Minna",
+   "lgas": [
+    {
+     "name": "Agaie",
+     "areas": [
+      "Agaie Town",
+      "Doko"
+     ]
+    },
+    {
+     "name": "Agwara",
+     "areas": [
+      "Agwara Town"
+     ]
+    },
+    {
+     "name": "Bida",
+     "areas": [
+      "Bida Town",
+      "Wadata"
+     ]
+    },
+    {
+     "name": "Borgu",
+     "areas": [
+      "New Bussa",
+      "Wawa",
+      "Babanna",
+      "Borgu Town"
+     ]
+    },
+    {
+     "name": "Bosso",
+     "areas": [
+      "Maikunkele",
+      "Bosso Town"
+     ]
+    },
+    {
+     "name": "Chanchaga",
+     "areas": [
+      "Minna Town",
+      "Tunga",
+      "Dutsen Kura",
+      "Maitumbi",
+      "Kpakungu"
+     ]
+    },
+    {
+     "name": "Edati",
+     "areas": [
+      "Edati Town"
+     ]
+    },
+    {
+     "name": "Gbako",
+     "areas": [
+      "Gbako Town",
+      "Lemu"
+     ]
+    },
+    {
+     "name": "Gurara",
+     "areas": [
+      "Gawu Babangida",
+      "Gurara Town"
+     ]
+    },
+    {
+     "name": "Katcha",
+     "areas": [
+      "Katcha Town"
+     ]
+    },
+    {
+     "name": "Kontagora",
+     "areas": [
+      "Kontagora Town"
+     ]
+    },
+    {
+     "name": "Lapai",
+     "areas": [
+      "Lapai Town",
+      "Gulu"
+     ]
+    },
+    {
+     "name": "Lavun",
+     "areas": [
+      "Kutigi",
+      "Lavun Town"
+     ]
+    },
+    {
+     "name": "Magama",
+     "areas": [
+      "Nasko",
+      "Magama Town"
+     ]
+    },
+    {
+     "name": "Mariga",
+     "areas": [
+      "Bangi",
+      "Mariga Town"
+     ]
+    },
+    {
+     "name": "Mashegu",
+     "areas": [
+      "Mashegu Town"
+     ]
+    },
+    {
+     "name": "Mokwa",
+     "areas": [
+      "Mokwa Town",
+      "Muregi"
+     ]
+    },
+    {
+     "name": "Moya",
+     "areas": [
+      "Moya Town"
+     ]
+    },
+    {
+     "name": "Paikoro",
+     "areas": [
+      "Paiko",
+      "Paikoro Town"
+     ]
+    },
+    {
+     "name": "Rafi",
+     "areas": [
+      "Kagara",
+      "Rafi Town",
+      "Tegina"
+     ]
+    },
+    {
+     "name": "Rijau",
+     "areas": [
+      "Rijau Town"
+     ]
+    },
+    {
+     "name": "Shiroro",
+     "areas": [
+      "Kuta",
+      "Galkogo",
+      "Shiroro Town",
+      "Gussoro",
+      "Allawa"
+     ]
+    },
+    {
+     "name": "Suleja",
+     "areas": [
+      "Suleja Town",
+      "Madalla"
+     ]
+    },
+    {
+     "name": "Tafa",
+     "areas": [
+      "Wuse",
+      "Tafa Town",
+      "Dutsen Kura"
+     ]
+    },
+    {
+     "name": "Wushishi",
+     "areas": [
+      "Wushishi Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ogun",
+   "capital": "Abeokuta",
+   "lgas": [
+    {
+     "name": "Abeokuta North",
+     "areas": [
+      "Lafenwa",
+      "Ita Oshin",
+      "Kuto",
+      "Oke-Ona",
+      "Ake",
+      "Isale Igbein"
+     ]
+    },
+    {
+     "name": "Abeokuta South",
+     "areas": [
+      "Oke Mosan",
+      "Adatan",
+      "Ibara",
+      "Panseke",
+      "Idi Aba",
+      "Sapon"
+     ]
+    },
+    {
+     "name": "Ado-Odo/Ota",
+     "areas": [
+      "Ota",
+      "Ado-Odo",
+      "Sango Ota",
+      "Agbara",
+      "Ilogbo",
+      "Iyana-Iyesi",
+      "Ijoko"
+     ]
+    },
+    {
+     "name": "Ewekoro",
+     "areas": [
+      "Ewekoro Town",
+      "Itori",
+      "Papalanto",
+      "Elere",
+      "Wasimi",
+      "Ifo Ewekoro"
+     ]
+    },
+    {
+     "name": "Ifo",
+     "areas": [
+      "Ifo Town",
+      "Agbado",
+      "Ojodu Berger",
+      "Akute",
+      "Ajuwon",
+      "Coker"
+     ]
+    },
+    {
+     "name": "Ijebu East",
+     "areas": [
+      "Ogbere",
+      "Ijebu Mushin",
+      "Imushin",
+      "Ajebandele",
+      "Itele Ijebu"
+     ]
+    },
+    {
+     "name": "Ijebu North",
+     "areas": [
+      "Ijebu Igbo",
+      "Ago Iwoye",
+      "Oru",
+      "Awa",
+      "Ojowo",
+      "Ilaporu"
+     ]
+    },
+    {
+     "name": "Ijebu North East",
+     "areas": [
+      "Atan",
+      "Ijebu Itele",
+      "Ilese",
+      "Oke Agbo",
+      "Ogbere Ijebu"
+     ]
+    },
+    {
+     "name": "Ijebu Ode",
+     "areas": [
+      "Ijebu Ode Town",
+      "Ijasi",
+      "Itamapako",
+      "Oke Sopen",
+      "Ijagba",
+      "Folagbade"
+     ]
+    },
+    {
+     "name": "Ikenne",
+     "areas": [
+      "Ikenne Town",
+      "Iperu",
+      "Ilishan-Remo",
+      "Irolu",
+      "Ogere",
+      "Ilisan"
+     ]
+    },
+    {
+     "name": "Imeko Afon",
+     "areas": [
+      "Imeko",
+      "Afon",
+      "Kajola",
+      "Iwoye",
+      "Idofa",
+      "Ilara"
+     ]
+    },
+    {
+     "name": "Ipokia",
+     "areas": [
+      "Ipokia Town",
+      "Idiroko",
+      "Ihunbo",
+      "Maun",
+      "Ajegunle Ipokia",
+      "Ifonyintedo"
+     ]
+    },
+    {
+     "name": "Obafemi Owode",
+     "areas": [
+      "Owode",
+      "Mowe",
+      "Ibafo",
+      "Obafemi",
+      "Kobape",
+      "Ofada"
+     ]
+    },
+    {
+     "name": "Odeda",
+     "areas": [
+      "Odeda Town",
+      "Ilugun",
+      "Obantoko",
+      "Alabata",
+      "Olodo",
+      "Opeji"
+     ]
+    },
+    {
+     "name": "Odogbolu",
+     "areas": [
+      "Odogbolu Town",
+      "Ijebu Mushin",
+      "Okun-Owa",
+      "Ala",
+      "Ilapo"
+     ]
+    },
+    {
+     "name": "Ogun Waterside",
+     "areas": [
+      "Abigi",
+      "Ayila",
+      "Iwopin",
+      "Ibiade",
+      "Makun",
+      "Ogunmakin"
+     ]
+    },
+    {
+     "name": "Remo North",
+     "areas": [
+      "Isara",
+      "Ilara",
+      "Ipara",
+      "Iraye",
+      "Ode-Remo"
+     ]
+    },
+    {
+     "name": "Sagamu",
+     "areas": [
+      "Sagamu Town",
+      "Ogijo",
+      "Ode-Lemo",
+      "Makun",
+      "Ijagba Sagamu",
+      "Ode-Remo"
+     ]
+    },
+    {
+     "name": "Yewa North",
+     "areas": [
+      "Ayetoro",
+      "Joga Orile",
+      "Ibese",
+      "Igan Alade"
+     ]
+    },
+    {
+     "name": "Yewa South",
+     "areas": [
+      "Ilaro",
+      "Owode Yewa",
+      "Ijanna",
+      "Oja Odan",
+      "Ilaro Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ondo",
+   "capital": "Akure",
+   "lgas": [
+    {
+     "name": "Akoko North-East",
+     "areas": [
+      "Ikare",
+      "Ipe",
+      "Ikaramu",
+      "Irun",
+      "Ogbagi"
+     ]
+    },
+    {
+     "name": "Akoko North-West",
+     "areas": [
+      "Okeagbe",
+      "Oyin",
+      "Ogbagi",
+      "Ayegunle",
+      "Gedegede"
+     ]
+    },
+    {
+     "name": "Akoko South-East",
+     "areas": [
+      "Isua",
+      "Ipe Akoko",
+      "Epinmi",
+      "Iyani",
+      "Ogbagi"
+     ]
+    },
+    {
+     "name": "Akoko South-West",
+     "areas": [
+      "Oka",
+      "Akungba",
+      "Ikun",
+      "Ibaramu",
+      "Oba-Akoko"
+     ]
+    },
+    {
+     "name": "Akure North",
+     "areas": [
+      "Iju",
+      "Ita-Ogbolu",
+      "Igbaraoke",
+      "Iwaro-Oka",
+      "Owena"
+     ]
+    },
+    {
+     "name": "Akure South",
+     "areas": [
+      "Akure Town",
+      "Oba-Ile",
+      "Alagbaka",
+      "Ijapo",
+      "Oke-Aro",
+      "Ilesha Garage"
+     ]
+    },
+    {
+     "name": "Ese Odo",
+     "areas": [
+      "Eseodo",
+      "Igbekebo",
+      "Ayetoro",
+      "Ugbonla",
+      "Aiyetoro"
+     ]
+    },
+    {
+     "name": "Idanre",
+     "areas": [
+      "Idanre Town",
+      "Owena",
+      "Ode-Aye",
+      "Atosin"
+     ]
+    },
+    {
+     "name": "Ifedore",
+     "areas": [
+      "Igbara-Oke",
+      "Ifedore Town",
+      "Ilara-Mokin",
+      "Ifira",
+      "Ijare"
+     ]
+    },
+    {
+     "name": "Ilaje",
+     "areas": [
+      "Ode-Ugbo",
+      "Mahin",
+      "Awoye",
+      "Ayetoro",
+      "Aiyetoro Ilaje",
+      "Igbokoda"
+     ]
+    },
+    {
+     "name": "Ile Oluji/Okeigbo",
+     "areas": [
+      "Ile Oluji",
+      "Okeigbo",
+      "Ifon",
+      "Oke-Igbo Town",
+      "Irele"
+     ]
+    },
+    {
+     "name": "Irele",
+     "areas": [
+      "Ode-Irele",
+      "Ayeka",
+      "Ikoya",
+      "Ibuji",
+      "Ijuoloja"
+     ]
+    },
+    {
+     "name": "Odigbo",
+     "areas": [
+      "Ore",
+      "Ode-Aye",
+      "Ago-Alaye",
+      "Ibuji Odigbo",
+      "Ijare"
+     ]
+    },
+    {
+     "name": "Okitipupa",
+     "areas": [
+      "Okitipupa Town",
+      "Ode-Aye",
+      "Ilutitun",
+      "Erinje",
+      "Igbotako"
+     ]
+    },
+    {
+     "name": "Ondo East",
+     "areas": [
+      "Bolorunduro",
+      "Ondo East Town",
+      "Ayeka",
+      "Oke-Odo",
+      "Ojurin"
+     ]
+    },
+    {
+     "name": "Ondo West",
+     "areas": [
+      "Ondo Town",
+      "Yaba",
+      "Sabo Ondo",
+      "Odojomu"
+     ]
+    },
+    {
+     "name": "Ose",
+     "areas": [
+      "Ifon",
+      "Ose Town",
+      "Ute",
+      "Ido-Ani",
+      "Imeri"
+     ]
+    },
+    {
+     "name": "Owo",
+     "areas": [
+      "Owo Town",
+      "Isuada",
+      "Ijebu-Owo",
+      "Emure Owo",
+      "Ogbese"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Osun",
+   "capital": "Osogbo",
+   "lgas": [
+    {
+     "name": "Atakunmosa East",
+     "areas": [
+      "Iperindo",
+      "Atakunmosa East Town",
+      "Iwara",
+      "Ibodi"
+     ]
+    },
+    {
+     "name": "Atakunmosa West",
+     "areas": [
+      "Osu",
+      "Atakunmosa West Town",
+      "Ijeda",
+      "Iwara"
+     ]
+    },
+    {
+     "name": "Aiyedaade",
+     "areas": [
+      "Gbongan",
+      "Ikire",
+      "Awo"
+     ]
+    },
+    {
+     "name": "Aiyedire",
+     "areas": [
+      "Ile Ogbo",
+      "Aiyedire Town",
+      "Awo"
+     ]
+    },
+    {
+     "name": "Boluwaduro",
+     "areas": [
+      "Otan Ayegbaju",
+      "Boluwaduro Town",
+      "Okuku",
+      "Ijebu Jesa"
+     ]
+    },
+    {
+     "name": "Boripe",
+     "areas": [
+      "Iragbiji",
+      "Boripe Town",
+      "Ora Igbomina",
+      "Ikirun"
+     ]
+    },
+    {
+     "name": "Ede North",
+     "areas": [
+      "Ede Town",
+      "Oluode",
+      "Oke Gada",
+      "Ede North Town",
+      "Awo"
+     ]
+    },
+    {
+     "name": "Ede South",
+     "areas": [
+      "Ede South Town",
+      "Ede",
+      "Oke Ayepe",
+      "Oluode Ede",
+      "Ileogbo"
+     ]
+    },
+    {
+     "name": "Egbedore",
+     "areas": [
+      "Awo",
+      "Egbedore Town"
+     ]
+    },
+    {
+     "name": "Ejigbo",
+     "areas": [
+      "Ejigbo Town",
+      "Ejigbo Central",
+      "Oke Eso"
+     ]
+    },
+    {
+     "name": "Ife Central",
+     "areas": [
+      "Ile-Ife",
+      "Ife Central Town",
+      "Oranmiyan",
+      "Obafemi Awolowo University"
+     ]
+    },
+    {
+     "name": "Ife East",
+     "areas": [
+      "Oke Ogbo",
+      "Ife East Town",
+      "Modakeke",
+      "Moore"
+     ]
+    },
+    {
+     "name": "Ife North",
+     "areas": [
+      "Ipetumodu",
+      "Edun Abon",
+      "Ife North Town",
+      "Akinlalu",
+      "Asipa"
+     ]
+    },
+    {
+     "name": "Ife South",
+     "areas": [
+      "Ifetedo",
+      "Ife South Town",
+      "Oke Ila"
+     ]
+    },
+    {
+     "name": "Ifedayo",
+     "areas": [
+      "Oke Ila",
+      "Ifedayo Town",
+      "Ila Orangun"
+     ]
+    },
+    {
+     "name": "Ifelodun",
+     "areas": [
+      "Ikirun",
+      "Ifelodun Town",
+      "Ora"
+     ]
+    },
+    {
+     "name": "Ila",
+     "areas": [
+      "Ila Orangun",
+      "Ila Town",
+      "Ora Igbomina"
+     ]
+    },
+    {
+     "name": "Ilesa East",
+     "areas": [
+      "Ilesa Town",
+      "Ilesa East Town",
+      "Ijeda"
+     ]
+    },
+    {
+     "name": "Ilesa West",
+     "areas": [
+      "Ilesa West Town",
+      "Ijeda",
+      "Iwara",
+      "Osu"
+     ]
+    },
+    {
+     "name": "Irepodun",
+     "areas": [
+      "Ilobu",
+      "Irepodun Town"
+     ]
+    },
+    {
+     "name": "Irewole",
+     "areas": [
+      "Ikire",
+      "Irewole Town"
+     ]
+    },
+    {
+     "name": "Isokan",
+     "areas": [
+      "Apomu",
+      "Isokan Town"
+     ]
+    },
+    {
+     "name": "Iwo",
+     "areas": [
+      "Iwo Town",
+      "Iwo Central",
+      "Oluwo Compound",
+      "Oke Oba"
+     ]
+    },
+    {
+     "name": "Obokun",
+     "areas": [
+      "Ibokun",
+      "Obokun Town",
+      "Ijebu Jesa"
+     ]
+    },
+    {
+     "name": "Odo Otin",
+     "areas": [
+      "Okuku",
+      "Odo Otin Town"
+     ]
+    },
+    {
+     "name": "Ola Oluwa",
+     "areas": [
+      "Bode Osi",
+      "Ola Oluwa Town"
+     ]
+    },
+    {
+     "name": "Olorunda",
+     "areas": [
+      "Igbonna",
+      "Olorunda Town"
+     ]
+    },
+    {
+     "name": "Oriade",
+     "areas": [
+      "Ijebu Jesa",
+      "Oriade Town"
+     ]
+    },
+    {
+     "name": "Orolu",
+     "areas": [
+      "Ifon Orolu",
+      "Orolu Town"
+     ]
+    },
+    {
+     "name": "Osogbo",
+     "areas": [
+      "Osogbo Town",
+      "Oja Oba",
+      "Oke Fia",
+      "Alekuwodo",
+      "Ota Efun",
+      "Dugbe"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Oyo",
+   "capital": "Ibadan",
+   "lgas": [
+    {
+     "name": "Afijio",
+     "areas": [
+      "Jobele",
+      "Fiditi",
+      "Iware",
+      "Ilora"
+     ]
+    },
+    {
+     "name": "Akinyele",
+     "areas": [
+      "Moniya",
+      "Ajibode",
+      "Akinyele Town",
+      "Iroko",
+      "Ikereku",
+      "Olodo"
+     ]
+    },
+    {
+     "name": "Atiba",
+     "areas": [
+      "Ofa Meta",
+      "Oyo Town",
+      "Atiba Town",
+      "Ilora",
+      "Ipapo",
+      "Oke Ado"
+     ]
+    },
+    {
+     "name": "Atisbo",
+     "areas": [
+      "Tede",
+      "Ago-Are",
+      "Atisbo Town"
+     ]
+    },
+    {
+     "name": "Egbeda",
+     "areas": [
+      "Egbeda Town",
+      "Olodo",
+      "Alakia",
+      "Ologuneru",
+      "Erunmu",
+      "Akanran"
+     ]
+    },
+    {
+     "name": "Ibadan North",
+     "areas": [
+      "Bodija",
+      "Agodi",
+      "Sango",
+      "Ojoo",
+      "University of Ibadan",
+      "Samonda"
+     ]
+    },
+    {
+     "name": "Ibadan North-East",
+     "areas": [
+      "Oje",
+      "Oranyan",
+      "Ayeye"
+     ]
+    },
+    {
+     "name": "Ibadan North-West",
+     "areas": [
+      "Dugbe",
+      "Eleyele",
+      "Alafara",
+      "Oke Ado"
+     ]
+    },
+    {
+     "name": "Ibadan South-East",
+     "areas": [
+      "Mapo",
+      "Oranyan",
+      "Mokola",
+      "Oke Bola",
+      "Odinjo",
+      "Oke Offa"
+     ]
+    },
+    {
+     "name": "Ibadan South-West",
+     "areas": [
+      "Bashorun",
+      "Jericho",
+      "Challenge",
+      "Oluyole"
+     ]
+    },
+    {
+     "name": "Ibarapa Central",
+     "areas": [
+      "Igbo-Ora",
+      "Ibarapa Central Town",
+      "Idere",
+      "Tapa"
+     ]
+    },
+    {
+     "name": "Ibarapa East",
+     "areas": [
+      "Eruwa",
+      "Lanlate",
+      "Ibarapa East Town",
+      "Idere",
+      "Ayete"
+     ]
+    },
+    {
+     "name": "Ibarapa North",
+     "areas": [
+      "Ayete",
+      "Tapa",
+      "Igangan",
+      "Ibarapa North Town",
+      "Igbo-Ora"
+     ]
+    },
+    {
+     "name": "Ido",
+     "areas": [
+      "Ido Town",
+      "Apata",
+      "Omi Adio",
+      "Ido Ibadan"
+     ]
+    },
+    {
+     "name": "Irepo",
+     "areas": [
+      "Kishi",
+      "Irepo Town",
+      "Iganna",
+      "Igbeti"
+     ]
+    },
+    {
+     "name": "Iseyin",
+     "areas": [
+      "Iseyin Town",
+      "Iseyin Central",
+      "Ilero",
+      "Ago Are",
+      "Iseyin North"
+     ]
+    },
+    {
+     "name": "Itesiwaju",
+     "areas": [
+      "Otu",
+      "Itesiwaju Town",
+      "Iganna",
+      "Ago-Are",
+      "Kisi"
+     ]
+    },
+    {
+     "name": "Iwajowa",
+     "areas": [
+      "Iwere-Ile",
+      "Iwajowa Town",
+      "Kisi",
+      "Igbeti",
+      "Ago-Are"
+     ]
+    },
+    {
+     "name": "Kajola",
+     "areas": [
+      "Okeho",
+      "Kajola Town",
+      "Ago Are"
+     ]
+    },
+    {
+     "name": "Lagelu",
+     "areas": [
+      "Iyana Church",
+      "Lagelu Town",
+      "Akanran"
+     ]
+    },
+    {
+     "name": "Ogbomosho North",
+     "areas": [
+      "Ogbomoso",
+      "Ogbomosho North Town",
+      "Oja Igbo",
+      "Isale Afon"
+     ]
+    },
+    {
+     "name": "Ogbomosho South",
+     "areas": [
+      "Arowomole",
+      "Ogbomosho South Town",
+      "Oja Igbo",
+      "Isale Afon"
+     ]
+    },
+    {
+     "name": "Ogo Oluwa",
+     "areas": [
+      "Ajawa",
+      "Ogo Oluwa Town",
+      "Igbo-Ora",
+      "Ajaawa"
+     ]
+    },
+    {
+     "name": "Olorunsogo",
+     "areas": [
+      "Igbeti",
+      "Olorunsogo Town",
+      "Kishi",
+      "Irepo"
+     ]
+    },
+    {
+     "name": "Oluyole",
+     "areas": [
+      "Idi Ayunre",
+      "Oluyole Town"
+     ]
+    },
+    {
+     "name": "Ona Ara",
+     "areas": [
+      "Akanran",
+      "Ona Ara Town"
+     ]
+    },
+    {
+     "name": "Orelope",
+     "areas": [
+      "Igboho",
+      "Orelope Town",
+      "Ago-Are",
+      "Iganna",
+      "Kishi"
+     ]
+    },
+    {
+     "name": "Ori Ire",
+     "areas": [
+      "Ikoyi-Ile",
+      "Ori Ire Town"
+     ]
+    },
+    {
+     "name": "Oyo",
+     "areas": [
+      "Oyo Town",
+      "Oyo West",
+      "Awe",
+      "Fiditi",
+      "Ilora",
+      "Ofa Meta"
+     ]
+    },
+    {
+     "name": "Oyo East",
+     "areas": [
+      "Kosobo",
+      "Oyo East Town"
+     ]
+    },
+    {
+     "name": "Saki East",
+     "areas": [
+      "Agoamodu",
+      "Saki East Town",
+      "Ago-Are",
+      "Iganna"
+     ]
+    },
+    {
+     "name": "Saki West",
+     "areas": [
+      "Saki Town",
+      "Saki West Town",
+      "Ago-Are",
+      "Iganna",
+      "Kishi"
+     ]
+    },
+    {
+     "name": "Surulere",
+     "areas": [
+      "Iresa-Adu",
+      "Surulere Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Plateau",
+   "capital": "Jos",
+   "lgas": [
+    {
+     "name": "Barkin Ladi",
+     "areas": [
+      "Barkin Ladi Town",
+      "Gashish",
+      "Heipang",
+      "Foron",
+      "Kuru Karama",
+      "Ropp"
+     ]
+    },
+    {
+     "name": "Bassa",
+     "areas": [
+      "Miango",
+      "Bassa Town",
+      "Irigwe",
+      "Rafiki"
+     ]
+    },
+    {
+     "name": "Bokkos",
+     "areas": [
+      "Bokkos Town",
+      "Mushere",
+      "Daffo",
+      "Manguna",
+      "Richa"
+     ]
+    },
+    {
+     "name": "Jos East",
+     "areas": [
+      "Angware",
+      "Fobur",
+      "Jos East Town",
+      "Gyel",
+      "Maijuju",
+      "Ibi"
+     ]
+    },
+    {
+     "name": "Jos North",
+     "areas": [
+      "Jos City",
+      "Angwan Rogo",
+      "Rayfield",
+      "Tudun Wada",
+      "Gada Biyu"
+     ]
+    },
+    {
+     "name": "Jos South",
+     "areas": [
+      "Bukuru",
+      "Du",
+      "Vom",
+      "Heipang",
+      "Gyel",
+      "Kwata"
+     ]
+    },
+    {
+     "name": "Kanam",
+     "areas": [
+      "Dengi",
+      "Kanam Town",
+      "Gar"
+     ]
+    },
+    {
+     "name": "Kanke",
+     "areas": [
+      "Kwande",
+      "Kanke Town",
+      "Tudun Wada"
+     ]
+    },
+    {
+     "name": "Langtang North",
+     "areas": [
+      "Langtang",
+      "Langtang North Town",
+      "Gazum",
+      "Mabudi"
+     ]
+    },
+    {
+     "name": "Langtang South",
+     "areas": [
+      "Mabudi",
+      "Langtang South Town",
+      "Gazum"
+     ]
+    },
+    {
+     "name": "Mangu",
+     "areas": [
+      "Mangu Town",
+      "Chakfem",
+      "Mangu Halle",
+      "Pushit",
+      "Chanso"
+     ]
+    },
+    {
+     "name": "Mikang",
+     "areas": [
+      "Gindiri",
+      "Mikang Town",
+      "Mikang Halle",
+      "Kwa"
+     ]
+    },
+    {
+     "name": "Pankshin",
+     "areas": [
+      "Pankshin Town",
+      "Chip",
+      "Kwa",
+      "Pankshin Halle",
+      "Dengi"
+     ]
+    },
+    {
+     "name": "Qua'an Pan",
+     "areas": [
+      "Namu",
+      "Qua'an Pan Town"
+     ]
+    },
+    {
+     "name": "Riyom",
+     "areas": [
+      "Riyom Town",
+      "Jol",
+      "Kwi",
+      "Riyom Hill",
+      "Rim"
+     ]
+    },
+    {
+     "name": "Shendam",
+     "areas": [
+      "Shendam Town",
+      "Kwande"
+     ]
+    },
+    {
+     "name": "Wase",
+     "areas": [
+      "Wase Town",
+      "Wase Halle",
+      "Dengi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rivers",
+   "capital": "Port Harcourt",
+   "lgas": [
+    {
+     "name": "Abua/Odual",
+     "areas": [
+      "Abua",
+      "Odual",
+      "Ogbakiri",
+      "Ogbogoro",
+      "Okpofe"
+     ]
+    },
+    {
+     "name": "Ahoada East",
+     "areas": [
+      "Ahoada",
+      "Ahoada East Town",
+      "Ula-Upata",
+      "Ula Ikata"
+     ]
+    },
+    {
+     "name": "Ahoada West",
+     "areas": [
+      "Akinima",
+      "Ahoada West Town",
+      "Ula Ikata",
+      "Ogbo",
+      "Ihuoma"
+     ]
+    },
+    {
+     "name": "Akuku-Toru",
+     "areas": [
+      "Abonnema",
+      "Obonoma",
+      "Idama",
+      "Ido",
+      "Abuloma"
+     ]
+    },
+    {
+     "name": "Andoni",
+     "areas": [
+      "Ngo",
+      "Ikuru",
+      "Ataba",
+      "Unyeada",
+      "Ohia"
+     ]
+    },
+    {
+     "name": "Asari-Toru",
+     "areas": [
+      "Buguma",
+      "Ido Town",
+      "Ibuloma",
+      "Abonema"
+     ]
+    },
+    {
+     "name": "Bonny",
+     "areas": [
+      "Bonny Town",
+      "Finima",
+      "Ayambo",
+      "Abalamabie"
+     ]
+    },
+    {
+     "name": "Degema",
+     "areas": [
+      "Degema Town",
+      "Tombia",
+      "Abonema",
+      "Obuama",
+      "Bukuma"
+     ]
+    },
+    {
+     "name": "Eleme",
+     "areas": [
+      "Ogale",
+      "Alesa",
+      "Ebubu",
+      "Ogoloma",
+      "Agbonchia",
+      "Aleto"
+     ]
+    },
+    {
+     "name": "Emuoha",
+     "areas": [
+      "Emuoha Town",
+      "Rumuji",
+      "Egwi",
+      "Elele Alimini",
+      "Ibaa"
+     ]
+    },
+    {
+     "name": "Etche",
+     "areas": [
+      "Okehi",
+      "Chokocho",
+      "Igbodo",
+      "Etche Town",
+      "Odufor"
+     ]
+    },
+    {
+     "name": "Gokana",
+     "areas": [
+      "Kpor",
+      "Bodo",
+      "Gokana Town",
+      "Barako",
+      "Bomu"
+     ]
+    },
+    {
+     "name": "Ikwerre",
+     "areas": [
+      "Isiokpo",
+      "Ikwerre Town",
+      "Omagwa",
+      "Omerelu",
+      "Igwuruta"
+     ]
+    },
+    {
+     "name": "Khana",
+     "areas": [
+      "Bori",
+      "Kono",
+      "Khana Town",
+      "Ogoni Town",
+      "Kpean"
+     ]
+    },
+    {
+     "name": "Obio/Akpor",
+     "areas": [
+      "Rumuokoro",
+      "Rumuigbo",
+      "Rumuola",
+      "Rumuokwuta",
+      "Rukpokwu",
+      "Choba"
+     ]
+    },
+    {
+     "name": "Ogba/Egbema/Ndoni",
+     "areas": [
+      "Omoku",
+      "Ndoni",
+      "Egbema Town",
+      "Ogba Town",
+      "Obite"
+     ]
+    },
+    {
+     "name": "Ogu/Bolo",
+     "areas": [
+      "Ogu",
+      "Bolo",
+      "Ogu Town",
+      "Bolo Town"
+     ]
+    },
+    {
+     "name": "Okrika",
+     "areas": [
+      "Okrika Town",
+      "Ogoloma",
+      "Ogbogu",
+      "Abuloma",
+      "Kalio"
+     ]
+    },
+    {
+     "name": "Omuma",
+     "areas": [
+      "Omuma Town",
+      "Eberi",
+      "Uvuru",
+      "Akpoku"
+     ]
+    },
+    {
+     "name": "Opobo/Nkoro",
+     "areas": [
+      "Opobo Town",
+      "Nkoro",
+      "Kalaibiama",
+      "Ayama",
+      "Iwoma"
+     ]
+    },
+    {
+     "name": "Oyigbo",
+     "areas": [
+      "Oyigbo Town",
+      "Afam",
+      "Komkom",
+      "Ogbogu Oyigbo",
+      "Obete"
+     ]
+    },
+    {
+     "name": "Port Harcourt",
+     "areas": [
+      "Port Harcourt City",
+      "Diobu",
+      "GRA Phase 1",
+      "Old GRA",
+      "Borokiri",
+      "Rumuomasi"
+     ]
+    },
+    {
+     "name": "Tai",
+     "areas": [
+      "Tai Town",
+      "Sime",
+      "Kpite",
+      "Botem",
+      "Nonwa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sokoto",
+   "capital": "Sokoto",
+   "lgas": [
+    {
+     "name": "Binji",
+     "areas": [
+      "Binji Town"
+     ]
+    },
+    {
+     "name": "Bodinga",
+     "areas": [
+      "Bodinga Town",
+      "Danchadi",
+      "Kwanawa"
+     ]
+    },
+    {
+     "name": "Dange Shuni",
+     "areas": [
+      "Dange",
+      "Shuni",
+      "Dange Town",
+      "Kasarawa",
+      "Tudun Wada"
+     ]
+    },
+    {
+     "name": "Gada",
+     "areas": [
+      "Gada Town",
+      "Kaura",
+      "Rakumi",
+      "Tsitse"
+     ]
+    },
+    {
+     "name": "Goronyo",
+     "areas": [
+      "Goronyo Town",
+      "Daddara",
+      "Kwarma",
+      "Shinaka"
+     ]
+    },
+    {
+     "name": "Gudu",
+     "areas": [
+      "Gudu Town",
+      "Balle",
+      "Kaurar Sarkin",
+      "Kanwa",
+      "Tara"
+     ]
+    },
+    {
+     "name": "Gwadabawa",
+     "areas": [
+      "Gwadabawa Town",
+      "Kurawa",
+      "Kuruwa"
+     ]
+    },
+    {
+     "name": "Illela",
+     "areas": [
+      "Illela Town",
+      "Tsamaye",
+      "Kwarare"
+     ]
+    },
+    {
+     "name": "Isa",
+     "areas": [
+      "Isa Town",
+      "Kamarawa",
+      "Tsabre"
+     ]
+    },
+    {
+     "name": "Kebbe",
+     "areas": [
+      "Kebbe Town",
+      "Dabagi"
+     ]
+    },
+    {
+     "name": "Kware",
+     "areas": [
+      "Kware Town",
+      "Dole"
+     ]
+    },
+    {
+     "name": "Rabah",
+     "areas": [
+      "Rabah Town",
+      "Dan Wuri",
+      "Kurya",
+      "Mara"
+     ]
+    },
+    {
+     "name": "Sabon Birni",
+     "areas": [
+      "Sabon Birni Town",
+      "Gatawa",
+      "Kurawa",
+      "Lajawa",
+      "Tsamaye"
+     ]
+    },
+    {
+     "name": "Shagari",
+     "areas": [
+      "Shagari Town",
+      "Dandin Mahe",
+      "Kwarkiya"
+     ]
+    },
+    {
+     "name": "Silame",
+     "areas": [
+      "Silame Town",
+      "Katami",
+      "Dan Kurmi"
+     ]
+    },
+    {
+     "name": "Sokoto North",
+     "areas": [
+      "Sokoto City",
+      "Tudun Wada",
+      "Kofar Atiku",
+      "Kofar Rini",
+      "Dundaye"
+     ]
+    },
+    {
+     "name": "Sokoto South",
+     "areas": [
+      "Sokoto South Town",
+      "Gawon Nama",
+      "Runjin Sambo",
+      "Mabera",
+      "Gwiwa"
+     ]
+    },
+    {
+     "name": "Tambuwal",
+     "areas": [
+      "Tambuwal Town",
+      "Jabo"
+     ]
+    },
+    {
+     "name": "Tangaza",
+     "areas": [
+      "Tangaza Town"
+     ]
+    },
+    {
+     "name": "Tureta",
+     "areas": [
+      "Tureta Town"
+     ]
+    },
+    {
+     "name": "Wamako",
+     "areas": [
+      "Wamako Town",
+      "Tudun Wada"
+     ]
+    },
+    {
+     "name": "Wurno",
+     "areas": [
+      "Wurno Town"
+     ]
+    },
+    {
+     "name": "Yabo",
+     "areas": [
+      "Yabo Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Taraba",
+   "capital": "Jalingo",
+   "lgas": [
+    {
+     "name": "Ardo Kola",
+     "areas": [
+      "Ardo Kola Town",
+      "Kpantisawa"
+     ]
+    },
+    {
+     "name": "Bali",
+     "areas": [
+      "Bali Town",
+      "Suntai",
+      "Gyawana",
+      "Mayo Ranewo"
+     ]
+    },
+    {
+     "name": "Donga",
+     "areas": [
+      "Donga Town",
+      "Sabon Gida"
+     ]
+    },
+    {
+     "name": "Gashaka",
+     "areas": [
+      "Serti",
+      "Gashaka Town",
+      "Mayo Selbe",
+      "Sarkin Dawa"
+     ]
+    },
+    {
+     "name": "Gassol",
+     "areas": [
+      "Mutum Biyu",
+      "Gassol Town",
+      "Bantaje"
+     ]
+    },
+    {
+     "name": "Ibi",
+     "areas": [
+      "Ibi Town",
+      "Bantaje"
+     ]
+    },
+    {
+     "name": "Jalingo",
+     "areas": [
+      "Jalingo Town",
+      "Sabon Gari",
+      "Mayo Gwoi",
+      "Magami",
+      "Kona",
+      "Barade"
+     ]
+    },
+    {
+     "name": "Karim Lamido",
+     "areas": [
+      "Karim Lamido Town",
+      "Sabon Layi",
+      "Kodomun"
+     ]
+    },
+    {
+     "name": "Kurmi",
+     "areas": [
+      "Kurmi Town",
+      "Mayo Selbe",
+      "Sabon Gari Kurmi",
+      "Lissam"
+     ]
+    },
+    {
+     "name": "Lau",
+     "areas": [
+      "Lau Town",
+      "Sabon Gari Lau"
+     ]
+    },
+    {
+     "name": "Sardauna",
+     "areas": [
+      "Gembu",
+      "Mambilla Plateau",
+      "Mayo Ndaga",
+      "Nguroje",
+      "Maisamari"
+     ]
+    },
+    {
+     "name": "Takum",
+     "areas": [
+      "Takum Town",
+      "Chanchanji",
+      "Rafin Kada",
+      "Yangtu"
+     ]
+    },
+    {
+     "name": "Ussa",
+     "areas": [
+      "Lissam",
+      "Ussa Town",
+      "Mayo Selbe"
+     ]
+    },
+    {
+     "name": "Wukari",
+     "areas": [
+      "Wukari Town",
+      "Akwana",
+      "Puje",
+      "Chonku",
+      "Tsokundi"
+     ]
+    },
+    {
+     "name": "Yorro",
+     "areas": [
+      "Pupule",
+      "Yorro Town",
+      "Sabon Layi"
+     ]
+    },
+    {
+     "name": "Zing",
+     "areas": [
+      "Zing Town",
+      "Mayo Gwoi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Yobe",
+   "capital": "Damaturu",
+   "lgas": [
+    {
+     "name": "Bade",
+     "areas": [
+      "Gashua",
+      "Bade Town",
+      "Dachia",
+      "Katuzu",
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Bursari",
+     "areas": [
+      "Dapchi",
+      "Bursari Town",
+      "Jaji Maji",
+      "Mutai"
+     ]
+    },
+    {
+     "name": "Damaturu",
+     "areas": [
+      "Damaturu Town",
+      "Gonduwa",
+      "Sabon Pegi",
+      "Bindigari",
+      "Nayinawa"
+     ]
+    },
+    {
+     "name": "Fika",
+     "areas": [
+      "Fika Town",
+      "Gadaka",
+      "Kukar Gadu",
+      "Daya"
+     ]
+    },
+    {
+     "name": "Fune",
+     "areas": [
+      "Damagum",
+      "Fune Town",
+      "Gadaka",
+      "Mamudo",
+      "Dogon Kuka"
+     ]
+    },
+    {
+     "name": "Geidam",
+     "areas": [
+      "Geidam Town",
+      "Mallam Fatori",
+      "Dole"
+     ]
+    },
+    {
+     "name": "Gujba",
+     "areas": [
+      "Buni Yadi",
+      "Gujba Town",
+      "Goniri",
+      "Mutai"
+     ]
+    },
+    {
+     "name": "Gulani",
+     "areas": [
+      "Gulani Town",
+      "Hausari",
+      "Bara",
+      "Gotumba"
+     ]
+    },
+    {
+     "name": "Jakusko",
+     "areas": [
+      "Jakusko Town",
+      "Bayamari",
+      "Garin Gada"
+     ]
+    },
+    {
+     "name": "Karasuwa",
+     "areas": [
+      "Karasuwa Town",
+      "Garin Kuka",
+      "Kawuri"
+     ]
+    },
+    {
+     "name": "Machina",
+     "areas": [
+      "Machina Town",
+      "Katarko",
+      "Dagona"
+     ]
+    },
+    {
+     "name": "Nangere",
+     "areas": [
+      "Nangere Town",
+      "Gadaka",
+      "Daya"
+     ]
+    },
+    {
+     "name": "Nguru",
+     "areas": [
+      "Nguru Town",
+      "Magaram",
+      "Dadigar",
+      "Garin Hamza"
+     ]
+    },
+    {
+     "name": "Potiskum",
+     "areas": [
+      "Potiskum Town",
+      "Dogo Tuwo",
+      "Bula",
+      "Mamudo",
+      "Kukar Gadu"
+     ]
+    },
+    {
+     "name": "Tarmuwa",
+     "areas": [
+      "Tarmuwa Town",
+      "Kukareta"
+     ]
+    },
+    {
+     "name": "Yunusari",
+     "areas": [
+      "Yunusari Town"
+     ]
+    },
+    {
+     "name": "Yusufari",
+     "areas": [
+      "Yusufari Town"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zamfara",
+   "capital": "Gusau",
+   "lgas": [
+    {
+     "name": "Anka",
+     "areas": [
+      "Anka Town",
+      "Jangeru",
+      "Yar Gaji"
+     ]
+    },
+    {
+     "name": "Bakura",
+     "areas": [
+      "Bakura Town",
+      "Dankurmi"
+     ]
+    },
+    {
+     "name": "Birnin Magaji/Kiyaw",
+     "areas": [
+      "Birnin Magaji",
+      "Kiyaw"
+     ]
+    },
+    {
+     "name": "Bukkuyum",
+     "areas": [
+      "Bukkuyum Town",
+      "Zugu",
+      "Dumburum"
+     ]
+    },
+    {
+     "name": "Bungudu",
+     "areas": [
+      "Bungudu Town"
+     ]
+    },
+    {
+     "name": "Gummi",
+     "areas": [
+      "Gummi Town"
+     ]
+    },
+    {
+     "name": "Gusau",
+     "areas": [
+      "Gusau Town",
+      "Tudun Wada",
+      "Samaru",
+      "Sabon Gari Gusau",
+      "Mada"
+     ]
+    },
+    {
+     "name": "Kaura Namoda",
+     "areas": [
+      "Kaura Namoda Town"
+     ]
+    },
+    {
+     "name": "Maradun",
+     "areas": [
+      "Maradun Town"
+     ]
+    },
+    {
+     "name": "Maru",
+     "areas": [
+      "Maru Town"
+     ]
+    },
+    {
+     "name": "Shinkafi",
+     "areas": [
+      "Shinkafi Town"
+     ]
+    },
+    {
+     "name": "Talata Mafara",
+     "areas": [
+      "Talata Mafara Town"
+     ]
+    },
+    {
+     "name": "Tsafe",
+     "areas": [
+      "Tsafe Town"
+     ]
+    },
+    {
+     "name": "Zurmi",
+     "areas": [
+      "Zurmi Town"
+     ]
+    }
+   ]
+  }
+ ]
+}
