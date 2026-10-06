@@ -15,6 +15,7 @@ A structured JSON dataset of Nigerian **states**, **Local Government Areas (LGAs
 - [Field Reference](#field-reference)
 - [TypeScript Types](#typescript-types)
 - [Quick Start](#quick-start)
+- [Fetch via Raw GitHub URL](#fetch-via-raw-github-url)
 - [Location Autocomplete Component](#location-autocomplete-component)
 - [Project Structure](#project-structure)
 - [Data Rules](#data-rules)
@@ -25,7 +26,7 @@ A structured JSON dataset of Nigerian **states**, **Local Government Areas (LGAs
 
 ## Data Format
 
-The data lives in a single file: [`src/data/nigeria-locations.json`](src/data/nigeria-locations.json).
+The data lives in a single file: [`src/data/nigerialocc.json`](src/data/nigerialocc.json).
 
 The hierarchy is **Country → State → LGA → Area**:
 
@@ -117,7 +118,7 @@ export interface Lga {
 ### 1. Import the data
 
 ```ts
-import locations from '@/data/nigeria-locations.json';
+import locations from '@/data/nigerialocc.json';
 
 console.log(locations.totalStates); // 37
 ```
@@ -127,7 +128,7 @@ console.log(locations.totalStates); // 37
 ### 2. Common lookups
 
 ```ts
-import locations from '@/data/nigeria-locations.json';
+import locations from '@/data/nigerialocc.json';
 
 // All state names
 const stateNames = locations.states.map((s) => s.name);
@@ -156,6 +157,38 @@ const flat = locations.states.flatMap((state) =>
   ]),
 );
 ```
+
+---
+
+## Fetch via Raw GitHub URL
+
+You don't have to clone the repo. The JSON can be loaded straight from GitHub's raw content URL:
+
+```
+https://raw.githubusercontent.com/<username>/<repo>/main/src/data/nigerialocc.json
+```
+
+Replace `<username>` and `<repo>` with your own, and adjust the path if you keep the file somewhere else (for example, at the repo root it is just `.../main/nigerialocc.json`).
+
+### JavaScript / TypeScript
+
+```ts
+const URL =
+  'https://raw.githubusercontent.com/<username>/<repo>/main/src/data/nigerialocc.json';
+
+const res = await fetch(URL);
+const locations: NigeriaLocations = await res.json();
+
+console.log(locations.totalLgas); // 774
+```
+
+### cURL
+
+```bash
+curl -O https://raw.githubusercontent.com/<username>/<repo>/main/src/data/nigerialocc.json
+```
+
+> **Tip:** raw URLs are cached by GitHub for a few minutes and are not meant for heavy production traffic. For production apps, download the file and import it locally (see [Quick Start](#quick-start)).
 
 ---
 
@@ -206,7 +239,7 @@ npm install lucide-react
 │   ├── components/
 │   │   └── LocationAutocomplete.tsx
 │   └── data/
-│       └── nigeria-locations.json
+│       └── nigerialocc.json
 └── README.md
 ```
 
@@ -231,7 +264,7 @@ Contributions are welcome, especially for adding or correcting **areas**.
 
 1. Fork the repo
 2. Create a branch: `git checkout -b add-areas-ikeja`
-3. Edit `src/data/nigeria-locations.json` following the [Data Rules](#data-rules)
+3. Edit `src/data/nigerialocc.json` following the [Data Rules](#data-rules)
 4. Open a pull request describing what you added or fixed
 
 If you spot a wrong name, spelling or missing LGA, please open an issue.
