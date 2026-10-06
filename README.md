@@ -165,7 +165,7 @@ const flat = locations.states.flatMap((state) =>
 You don't have to clone the repo. The JSON can be loaded straight from GitHub's raw content URL:
 
 ```
-https://raw.githubusercontent.com/<username>/<repo>/main/src/data/nigerialocc.json
+https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json
 ```
 
 Replace `<username>` and `<repo>` with your own, and adjust the path if you keep the file somewhere else (for example, at the repo root it is just `.../main/nigerialocc.json`).
@@ -174,7 +174,7 @@ Replace `<username>` and `<repo>` with your own, and adjust the path if you keep
 
 ```ts
 const URL =
-  'https://raw.githubusercontent.com/<username>/<repo>/main/src/data/nigerialocc.json';
+  'https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json';
 
 const res = await fetch(URL);
 const locations: NigeriaLocations = await res.json();
@@ -185,7 +185,7 @@ console.log(locations.totalLgas); // 774
 ### cURL
 
 ```bash
-curl -O https://raw.githubusercontent.com/<username>/<repo>/main/src/data/nigerialocc.json
+curl -O https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json
 ```
 
 > **Tip:** raw URLs are cached by GitHub for a few minutes and are not meant for heavy production traffic. For production apps, download the file and import it locally (see [Quick Start](#quick-start)).
