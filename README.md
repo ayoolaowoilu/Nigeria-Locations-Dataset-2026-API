@@ -1,22 +1,21 @@
-# 🇳🇬 Nigeria Locations Dataset
+# 🇳🇬 Nigeria Locations Dataset (JSON API)
 
-A structured JSON dataset of Nigerian **states**, **Local Government Areas (LGAs)** and **areas / neighbourhoods**, with a ready-to-use React location autocomplete component.
+A free, structured JSON dataset of Nigerian **states**, **Local Government Areas (LGAs)** and **areas / neighbourhoods**. Fetch it straight from GitHub, no API key needed.
 
 - 37 states (36 states + the Federal Capital Territory)
 - 774 LGAs (including the 6 FCT area councils)
 - Areas / towns / neighbourhoods nested under each LGA
-- Works offline: import the JSON directly, no API calls or API keys
+- One flat JSON file: fetch it over HTTP or download and import it
 
 ---
 
 ## Table of Contents
 
+- [API Endpoint](#api-endpoint)
 - [Data Format](#data-format)
 - [Field Reference](#field-reference)
 - [TypeScript Types](#typescript-types)
-- [Quick Start](#quick-start)
-- [Fetch via Raw GitHub URL](#fetch-via-raw-github-url)
-- [Location Autocomplete Component](#location-autocomplete-component)
+- [Use It Locally](#use-it-locally)
 - [Project Structure](#project-structure)
 - [Data Rules](#data-rules)
 - [Contributing](#contributing)
@@ -24,9 +23,37 @@ A structured JSON dataset of Nigerian **states**, **Local Government Areas (LGAs
 
 ---
 
+## API Endpoint
+
+```
+https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json
+```
+
+### JavaScript / TypeScript
+
+```ts
+const URL =
+  'https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json';
+
+const res = await fetch(URL);
+const locations: NigeriaLocations = await res.json();
+
+console.log(locations.totalLgas); // 774
+```
+
+### cURL
+
+```bash
+curl -O https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json
+```
+
+> **Tip:** raw URLs are cached by GitHub for a few minutes and are not meant for heavy production traffic. For production apps, download the file and import it locally (see [Use It Locally](#use-it-locally)).
+
+---
+
 ## Data Format
 
-The data lives in a single file: [`src/data/nigerialocc.json`](src/data/nigerialocc.json).
+The data lives in a single file: [`nigeria_locations.json`](nigeria_locations.json).
 
 The hierarchy is **Country → State → LGA → Area**:
 
@@ -113,23 +140,21 @@ export interface Lga {
 
 ---
 
-## Quick Start
+## Use It Locally
 
 ### 1. Import the data
 
 ```ts
-import locations from '@/data/nigerialocc.json';
+import locations from './nigeria_locations.json';
 
 console.log(locations.totalStates); // 37
 ```
 
-> If TypeScript can't resolve the import, set `"resolveJsonModule": true` in your `tsconfig.json`. Next.js enables this by default.
+> If TypeScript can't resolve the import, set `"resolveJsonModule": true` in your `tsconfig.json`.
 
 ### 2. Common lookups
 
 ```ts
-import locations from '@/data/nigerialocc.json';
-
 // All state names
 const stateNames = locations.states.map((s) => s.name);
 
@@ -160,86 +185,11 @@ const flat = locations.states.flatMap((state) =>
 
 ---
 
-## Fetch via Raw GitHub URL
-
-You don't have to clone the repo. The JSON can be loaded straight from GitHub's raw content URL:
-
-```
-https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json
-```
-
-Replace `<username>` and `<repo>` with your own, and adjust the path if you keep the file somewhere else (for example, at the repo root it is just `.../main/nigerialocc.json`).
-
-### JavaScript / TypeScript
-
-```ts
-const URL =
-  'https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json';
-
-const res = await fetch(URL);
-const locations: NigeriaLocations = await res.json();
-
-console.log(locations.totalLgas); // 774
-```
-
-### cURL
-
-```bash
-curl -O https://raw.githubusercontent.com/ayoolaowoilu/Nigeria-Locations-Dataset-2026-API/main/nigeria_locations.json
-```
-
-> **Tip:** raw URLs are cached by GitHub for a few minutes and are not meant for heavy production traffic. For production apps, download the file and import it locally (see [Quick Start](#quick-start)).
-
----
-
-## Location Autocomplete Component
-
-`LocationAutocomplete` is a React / Next.js component (Tailwind CSS + `lucide-react`) that searches this dataset locally as you type.
-
-```tsx
-import LocationAutocomplete from '@/components/LocationAutocomplete';
-
-export default function Page() {
-  const [location, setLocation] = useState('');
-
-  return <LocationAutocomplete value={location} onChange={setLocation} />;
-}
-```
-
-### What users see
-
-| Level | Main text | Secondary text         | Value returned to `onChange` |
-| ----- | --------- | ---------------------- | ---------------------------- |
-| State | Lagos     | State, Nigeria         | `Lagos`                      |
-| LGA   | Agege     | LGA, Lagos State       | `Agege, Lagos`               |
-| Area  | Oko Oba   | Agege LGA, Lagos State | `Oko Oba, Agege, Lagos`      |
-
-### Features
-
-- Instant, synchronous search with no network requests
-- Multi-word queries (`lekki lagos`, `Oko Oba, Agege`)
-- Case and accent insensitive
-- Ranked results: exact match, then prefix match, then word match, then contains
-- Keyboard navigation (↑ ↓ Enter Esc)
-- Clear button and empty-state message
-
-### Dependencies
-
-```bash
-npm install lucide-react
-```
-
----
-
 ## Project Structure
 
 ```
 .
-├── src/
-│   ├── components/
-│   │   └── LocationAutocomplete.tsx
-│   └── data/
-│       └── nigerialocc.json
+├── nigeria_locations.json
 └── README.md
 ```
 
@@ -264,7 +214,7 @@ Contributions are welcome, especially for adding or correcting **areas**.
 
 1. Fork the repo
 2. Create a branch: `git checkout -b add-areas-ikeja`
-3. Edit `src/data/nigerialocc.json` following the [Data Rules](#data-rules)
+3. Edit `nigeria_locations.json` following the [Data Rules](#data-rules)
 4. Open a pull request describing what you added or fixed
 
 If you spot a wrong name, spelling or missing LGA, please open an issue.
